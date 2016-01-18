@@ -111,21 +111,43 @@ class Player:
 
                 pot_tensor = hp.pot_as_tensor(int(potSize))
                 data_tensor[0][10] = pot_tensor
-                print(hp.one_tensor)
+
                 if numBoardCards == 0:
                     for action in lastActions:
                         if 'POST' in action:
                             continue
                         elif 'CALL' in action or 'RAISE' in action or 'BET' in action:
                             data_tensor[0][preflop_cnt] = hp.one_tensor
+                            preflop_cnt += 1
                         else:
                             preflop_cnt += 1
                 elif numBoardCards == 1:
-                    print('flop, tensors 19-25')
+                    for action in lastActions:
+                        if 'DEAL' in action:
+                            continue
+                        elif 'CALL' in action or 'RAISE' in action or 'BET' in action:
+                            data_tensor[0][preflop_cnt] = hp.one_tensor
+                            flop_cnt += 1
+                        else:
+                            flop_cnt += 1
                 elif numBoardCards == 2:
-                    print('turn, tensors 26-32')
+                    for action in lastActions:
+                        if 'DEAL' in action:
+                            continue
+                        elif 'CALL' in action or 'RAISE' in action or 'BET' in action:
+                            data_tensor[0][preflop_cnt] = hp.one_tensor
+                            turn_cnt += 1
+                        else:
+                            turn_cnt += 1
                 elif numBoardCards == 3:
-                    print('river, 33-39')
+                    for action in lastActions:
+                        if 'DEAL' in action:
+                            continue
+                        elif 'CALL' in action or 'RAISE' in action or 'BET' in action:
+                            data_tensor[0][preflop_cnt] = hp.one_tensor
+                            river_cnt += 1
+                        else:
+                            river_cnt += 1
 
                 s.send("CALL\n")
             elif word == "NEWHAND":
