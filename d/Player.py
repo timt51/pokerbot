@@ -177,6 +177,11 @@ class Player:
                 numLastActions = int(data[4 + numBoardCards])
                 lastActions = data[5 + numLastActions:-1]
                 timeBank = data[-1]
+                data_tensor = [[[[0 for i in xrange(17)] for i in xrange(17)] for i in xrange(40)]]
+                preflop_cnt = 12
+                flop_cnt = 19
+                turn_cnt = 26
+                river_cnt = 33
             elif word == "REQUESTKEYVALUES":
                 # At the end, the engine will allow your bot save key/value pairs.
                 # Send FINISH to indicate you're done.
