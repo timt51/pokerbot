@@ -105,7 +105,7 @@ class Player:
                     data_tensor[0][cnt] = tensor
                     cnt += 1
 
-                pot_tensor = hp.pot_as_tensor(potSize)
+                pot_tensor = hp.pot_as_tensor(int(potSize))
                 data_tensor[0][10] = pot_tensor
 
                 s.send("CALL\n")
