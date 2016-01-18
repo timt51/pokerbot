@@ -135,6 +135,7 @@ if __name__ == '__main__':
 
     with open('network.pickle') as f:
         all_param_values = cPickle.load(f)
+    f.close()
     input_var = T.tensor4('inputs')
     network = build_cnn(input_var)
     lasagne.layers.set_all_param_values(network, all_param_values)
