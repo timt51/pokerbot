@@ -65,7 +65,7 @@ necessary to connect with the engine and then always returns the same action.
 It is meant as an example of how a pokerbot should communicate with the engine.
 """
 class Player:
-    def run(self, input_socket, evaluator, network):
+    def run(self, input_socket, evaluator, network, input_var):
         # Get a file-object for reading packets from the socket.
         # Using this ensures that you get exactly one packet per read.
         f_in = input_socket.makefile()
@@ -186,6 +186,11 @@ class Player:
                 # At the end, the engine will allow your bot save key/value pairs.
                 # Send FINISH to indicate you're done.
                 s.send("FINISH\n")
+
+            test_prediction = lasagne.layers.get_output(network, deterministic=True)
+            predict_fn = theano.function([input_var], test_prediction)
+            prediction = predict_fn(data_tensor)
+            print(prediction)
         # Clean up the socket.
         s.close()
 
@@ -212,7 +217,7 @@ if __name__ == '__main__':
     
     bot = Player()
     evaluator = Evaluator()
-    bot.run(s, evaluator, network)
+    bot.run(s, evaluator, network, input_var)
 
 
 #beginning strategy?
