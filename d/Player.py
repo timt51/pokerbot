@@ -162,13 +162,15 @@ class Player:
                     print legalActions
                     for action in legalActions:
                         if "BET" in action:
-                            s.send("BET:"+action[-1]+"\n")
+                            s.send("BET:"+action.split(':')[-1]+"\n")
+                            break
                     else:
                         s.send("CALL")
                 else:
                     for action in legalActions:
                         if "RAISE" in action:
-                            s.send("RAISE:"+action[-1]+"\n")
+                            s.send("RAISE:"+action.split(':')[-1]+"\n")
+                            break
                     else:
                         s.send("CALL")
 
