@@ -70,6 +70,10 @@ class Player:
         # Using this ensures that you get exactly one packet per read.
         f_in = input_socket.makefile()
         data_tensor = [[[[0 for i in xrange(17)] for i in xrange(17)] for i in xrange(40)]]
+        preflop_cnt = 12
+        flop_cnt = 19
+        turn_cnt = 26
+        river_cnt = 33
         while True:
             # Block until the engine sends us a packet.
             data = f_in.readline().strip().split()
@@ -107,6 +111,21 @@ class Player:
 
                 pot_tensor = hp.pot_as_tensor(int(potSize))
                 data_tensor[0][10] = pot_tensor
+                print(hp.one_tensor)
+                if numBoardCards == 0:
+                    for action in lastActions:
+                        if 'POST' in action:
+                            continue
+                        elif 'CALL' in action or 'RAISE' in action or 'BET' in action:
+                            data_tensor[0][preflop_cnt] = hp.one_tensor
+                        else:
+                            preflop_cnt += 1
+                elif numBoardCards == 1:
+                    print('flop, tensors 19-25')
+                elif numBoardCards == 2:
+                    print('turn, tensors 26-32')
+                elif numBoardCards == 3:
+                    print('river, 33-39')
 
                 s.send("CALL\n")
             elif word == "NEWHAND":
