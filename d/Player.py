@@ -86,7 +86,7 @@ class Player:
 
             # Here is where you should implement code to parse the packets from
             # the engine and act on it. We are just printing it instead.
-
+            print data, "\n"
             # When appropriate, reply to the engine with a legal action.
             # The engine will ignore all spurious responses.
             # The engine will also check/fold for you if you return an
@@ -164,15 +164,13 @@ class Player:
                         if "BET" in action:
                             s.send("BET:"+action.split(':')[-1]+"\n")
                             break
-                    else:
-                        s.send("CALL")
+                    s.send("CALL\n")
                 else:
                     for action in legalActions:
                         if "RAISE" in action:
                             s.send("RAISE:"+action.split(':')[-1]+"\n")
                             break
-                    else:
-                        s.send("CALL")
+                    s.send("CALL\n")
 
             elif word == "NEWHAND":
                 handID = data[1]
