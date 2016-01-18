@@ -18,7 +18,7 @@ def build_cnn(input_var=None):
     # and a fully-connected hidden layer in front of the output layer.
 
     # Input layer, as usual:
-    network = lasagne.layers.InputLayer(shape=(None, 39, 17, 17),
+    network = lasagne.layers.InputLayer(shape=(None, 40, 17, 17),
                                         input_var=input_var)
     # This time we do not apply input dropout, as it tends to work less well
     # for convolutional layers.
