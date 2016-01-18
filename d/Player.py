@@ -151,8 +151,8 @@ class Player:
                         else:
                             river_cnt += 1
 
-                prediction = T.argmax(predict_fn(data_tensor))
-                print(prediction)
+                prediction = predict_fn(data_tensor)
+                print(np.argmax(prediction))
 
                 s.send("CALL\n")
             elif word == "NEWHAND":
