@@ -69,6 +69,7 @@ class Player:
         # Get a file-object for reading packets from the socket.
         # Using this ensures that you get exactly one packet per read.
         f_in = input_socket.makefile()
+        data_tensor = [[[[0 for i in xrange(17)] for i in xrange(17)] for i in xrange(40)]]
         while True:
             # Block until the engine sends us a packet.
             data = f_in.readline().strip().split()
@@ -104,6 +105,11 @@ class Player:
             elif word == "NEWHAND":
                 handID = data[1]
                 button = bool(data[2])
+                if button == True:
+                    button_tensor = hp.one_tensor
+                else:
+                    button_tensor = hp.zero_tensor
+                data_tensor[0][11] = button_tensor
                 holeCards = data[3:7]
                 myBank = data[7]
                 otherBank = data[8]
