@@ -74,6 +74,10 @@ class Player:
         flop_cnt = 19
         turn_cnt = 26
         river_cnt = 33
+        test_prediction = lasagne.layers.get_output(network, deterministic=True)
+        predict_fn = theano.function([input_var], test_prediction)
+        prediction = predict_fn(data_tensor)
+        print(prediction)
         while True:
             # Block until the engine sends us a packet.
             data = f_in.readline().strip().split()
@@ -187,10 +191,6 @@ class Player:
                 # Send FINISH to indicate you're done.
                 s.send("FINISH\n")
 
-            test_prediction = lasagne.layers.get_output(network, deterministic=True)
-            predict_fn = theano.function([input_var], test_prediction)
-            prediction = predict_fn(data_tensor)
-            print(prediction)
         # Clean up the socket.
         s.close()
 
