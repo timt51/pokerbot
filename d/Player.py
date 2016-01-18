@@ -156,7 +156,7 @@ class Player:
                 if prediction == 0:
                     s.send("FOLD\n")
                 elif prediction == 1:
-                    s.sent("CHECK\n")
+                    s.send("CHECK\n")
 
                 s.send("CALL\n")
             elif word == "NEWHAND":
