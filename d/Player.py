@@ -157,8 +157,20 @@ class Player:
                     s.send("FOLD\n")
                 elif prediction == 1:
                     s.send("CHECK\n")
+                elif prediction == 2:
+                    s.send("CALL\n")
+                elif prediction == 3:
+                    for action in legalActions:
+                        if "BET" in action:
+                            s.send("BET:"+action[-1]+"\n")
+                        else:
+                            s.send("CALL")
+                else:
+                        if "RAISE" in action:
+                            s.send("RAISE:"+action[-1]+"\n")
+                        else:
+                            s.send("CALL")
 
-                s.send("CALL\n")
             elif word == "NEWHAND":
                 handID = data[1]
                 button = bool(data[2])
