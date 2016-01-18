@@ -100,6 +100,13 @@ class Player:
                 timebank = data[-1]
 
                 cards_tensor = hp.cards_as_tensor(holeCards, boardCards)
+                cnt = 0
+                for tensor in cards_tensor:
+                    data_tensor[0][cnt] = tensor
+                    cnt += 1
+
+                pot_tensor = hp.pot_as_tensor(potSize)
+                data_tensor[0][10] = pot_tensor
 
                 s.send("CALL\n")
             elif word == "NEWHAND":

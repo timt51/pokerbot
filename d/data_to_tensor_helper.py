@@ -56,14 +56,7 @@ def button(game):
 	else:
 		return False
 
-def pot_as_tensor(game, last_round):
-	if 'preflop' == last_round:
-		potSize = 3
-	elif 'showdown' == last_round:
-		potSize = abs(int(game[last_round]['WIN']))
-	else:
-		potSize = int(game[last_round]['POT'])
-
+def pot_as_tensor(potSize):
 	potSize /= 4
 	pot_tensor = copy.deepcopy(zero_tensor)
 
