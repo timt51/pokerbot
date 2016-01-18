@@ -166,6 +166,7 @@ class Player:
                         else:
                             s.send("CALL")
                 else:
+                    for action in legalActions:
                         if "RAISE" in action:
                             s.send("RAISE:"+action[-1]+"\n")
                         else:
