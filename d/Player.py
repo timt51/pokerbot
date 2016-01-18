@@ -76,8 +76,6 @@ class Player:
         river_cnt = 33
         test_prediction = lasagne.layers.get_output(network, deterministic=True)
         predict_fn = theano.function([input_var], test_prediction)
-        prediction = predict_fn(data_tensor)
-        print(prediction)
         while True:
             # Block until the engine sends us a packet.
             data = f_in.readline().strip().split()
@@ -152,6 +150,9 @@ class Player:
                             river_cnt += 1
                         else:
                             river_cnt += 1
+
+                prediction = predict_fn(data_tensor)
+                print(prediction)
 
                 s.send("CALL\n")
             elif word == "NEWHAND":
