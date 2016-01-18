@@ -3,6 +3,12 @@ from deuces import Card, Deck #7462 max
 import time
 import random
 
+import numpy as np
+import theano
+import theano.tensor as T
+
+import lasagne
+
 def move(data,oppName,holeCards,button,s,evaluator,network):
 	potSize = data[1]
 	numBoardCards = int(data[2])

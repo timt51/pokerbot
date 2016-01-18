@@ -1,0 +1,25 @@
+Connecting to localhost:3000
+['NEWGAME', 'FOLDERBOT', 'RANDOMTWO', '400', '2', '1', '10.000000'] 
+
+['NEWHAND', '1', 'true', 'Ah', '8h', 'Td', '4d', '0', '0', '10.000000'] 
+
+['GETACTION', '3', '0', '2', 'POST:1:FOLDERBOT', 'POST:2:RANDOMTWO', '3', 'CALL', 'FOLD', 'RAISE:4:6', '10.0'] 
+
+raise odds 0.666666666667 0.855926025194
+['GETACTION', '6', '0', '2', 'CALL:FOLDERBOT', 'RAISE:4:RANDOMTWO', '3', 'FOLD', 'CALL', 'RAISE:6:12', '9.992199467'] 
+
+raise odds 0.666666666667 0.836983382471
+['GETACTION', '14', '3', '7s', '3s', '7c', '3', 'CALL:FOLDERBOT', 'DEAL:FLOP', 'BET:6:RANDOMTWO', '3', 'FOLD', 'CALL', 'RAISE:12:26', '9.988855937'] 
+
+raise odds 0.65 0.852319753417
+['GETACTION', '36', '4', '7s', '3s', '7c', '7d', '3', 'CALL:FOLDERBOT', 'DEAL:TURN', 'BET:16:RANDOMTWO', '3', 'FOLD', 'CALL', 'RAISE:32:68', '9.969871664000001'] 
+
+raise odds 0.653846153846 1.12192441705
+['GETACTION', '52', '5', '7s', '3s', '7c', '7d', 'Ts', '3', 'CALL:FOLDERBOT', 'DEAL:RIVER', 'CHECK:RANDOMTWO', '2', 'CHECK', 'BET:2:52', '9.968074672000002'] 
+
+raise odds 0.5 1.12192441705
+['HANDOVER', '78', '-78', '5', '7s', '3s', '7c', '7d', 'Ts', '5', 'BET:52:FOLDERBOT', 'CALL:RANDOMTWO', 'SHOW:Ah:8h:Td:4d:FOLDERBOT', 'SHOW:Kc:8s:Qd:5d:RANDOMTWO', 'WIN:156:FOLDERBOT', '9.967503896000002'] 
+
+['REQUESTKEYVALUES', '2000'] 
+
+Gameover, engine disconnected.
