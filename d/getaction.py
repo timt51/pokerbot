@@ -1,6 +1,7 @@
 import itertools
 import time
 import random
+import data_to_tensor_helper as hp
 
 import numpy as np
 import theano
@@ -17,5 +18,9 @@ def move(data,oppName,holeCards,button,s,evaluator,network):
 	numLegalActions = int(data[4 + numBoardCards + numLastActions])
 	legalActions = data[5 + numBoardCards + numLastActions:-1]
 	timebank = data[-1]
-  
+
+	cards_tensor = hp.cards_as_tensor(holeCards, boardCards)
+
  	s.send("CALL\n")
+
+ 	return 'x'

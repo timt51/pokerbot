@@ -3,6 +3,7 @@ import socket
 import sys
 import newhand, getaction
 from deuces import Evaluator
+import data_to_tensor_helper as hp
 import os
 import time
 import cPickle
@@ -89,7 +90,8 @@ class Player:
             word = data[0]
             if word == "GETACTION":
                 # Currently CHECK on every move. You'll want to change this.
-                getaction.move(data,oppName,holeCards,button,s,evaluator,network)
+                test = getaction.move(data,oppName,holeCards,button,s,evaluator,network)
+                print(test)
             elif word == "NEWHAND":
                 handID = data[1]
                 button = bool(data[2])
