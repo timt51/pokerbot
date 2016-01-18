@@ -89,9 +89,18 @@ class Player:
             # character (\n) or your bot will hang!
             word = data[0]
             if word == "GETACTION":
-                # Currently CHECK on every move. You'll want to change this.
-                test = getaction.move(data,oppName,holeCards,button,s,evaluator,network)
-                print(test)
+                potSize = data[1]
+                numBoardCards = int(data[2])
+                boardCards = data[3:3 + numBoardCards]
+                numLastActions = int(data[3 + numBoardCards])
+                lastActions = data[4 + numBoardCards:4 + numBoardCards + numLastActions]
+                numLegalActions = int(data[4 + numBoardCards + numLastActions])
+                legalActions = data[5 + numBoardCards + numLastActions:-1]
+                timebank = data[-1]
+
+                cards_tensor = hp.cards_as_tensor(holeCards, boardCards)
+
+                s.send("CALL\n")
             elif word == "NEWHAND":
                 handID = data[1]
                 button = bool(data[2])

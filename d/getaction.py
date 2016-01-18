@@ -22,5 +22,3 @@ def move(data,oppName,holeCards,button,s,evaluator,network):
 	cards_tensor = hp.cards_as_tensor(holeCards, boardCards)
 
  	s.send("CALL\n")
-
- 	return 'x'
