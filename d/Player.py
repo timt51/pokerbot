@@ -151,7 +151,7 @@ class Player:
                         else:
                             river_cnt += 1
 
-                prediction = predict_fn(T.argmax(data_tensor))
+                prediction = T.argmax(predict_fn(data_tensor))
                 print(prediction)
 
                 s.send("CALL\n")
