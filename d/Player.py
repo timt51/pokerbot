@@ -154,7 +154,7 @@ class Player:
                 prediction = np.argmax(predict_fn(data_tensor))
                 print(prediction)
                 if prediction == 0:
-                    s.sent("FOLD\n")
+                    s.send("FOLD\n")
 
                 s.send("CALL\n")
             elif word == "NEWHAND":
