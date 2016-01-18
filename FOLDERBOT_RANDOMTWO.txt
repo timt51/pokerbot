@@ -2,22 +2,8 @@
 Hand #1, FOLDERBOT (0), RANDOMTWO (0)
 FOLDERBOT posts the blind of 1
 RANDOMTWO posts the blind of 2
-Dealt to FOLDERBOT [Ah 8h Td 4d]
-Dealt to RANDOMTWO [Kc 8s Qd 5d]
-FOLDERBOT calls
-RANDOMTWO raises to 4
-FOLDERBOT calls
-*** FLOP *** (8) [7s 3s 7c]
-RANDOMTWO bets 6
-FOLDERBOT calls
-*** TURN *** (20) [7s 3s 7c] [7d]
-RANDOMTWO bets 16
-FOLDERBOT calls
-*** RIVER *** (52) [7s 3s 7c 7d] [Ts]
-RANDOMTWO checks
-FOLDERBOT bets 52
-RANDOMTWO calls
-FOLDERBOT shows [Ah 8h Td 4d]
-RANDOMTWO shows [Kc 8s Qd 5d]
-FOLDERBOT wins the pot (156)
+Dealt to FOLDERBOT [7c Ad As Kd]
+Dealt to RANDOMTWO [Td 5c 7s 6h]
+FOLDERBOT folds
+RANDOMTWO wins the pot (3)
 

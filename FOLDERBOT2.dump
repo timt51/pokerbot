@@ -1,22 +1,7 @@
-Connecting to localhost:3000
-['NEWGAME', 'FOLDERBOT2', 'RANDOMTWO2', '400', '2', '1', '10.000000'] 
-
-['NEWHAND', '1', 'false', 'Kc', '8s', 'Qd', '5d', '0', '0', '10.000000'] 
-
-['GETACTION', '7', '0', '3', 'POST:1:RANDOMTWO2', 'POST:2:FOLDERBOT2', 'RAISE:5:RANDOMTWO2', '3', 'FOLD', 'CALL', 'RAISE:8:15', '10.0'] 
-
-raise odds 0.681818181818 0.83010989011
-['GETACTION', '10', '3', '7s', '3s', '7c', '2', 'CALL:FOLDERBOT2', 'DEAL:FLOP', '2', 'CHECK', 'BET:2:10', '9.923716263'] 
-
-raise odds 0.5 0.853158670598
-['GETACTION', '13', '3', '7s', '3s', '7c', '2', 'CHECK:FOLDERBOT2', 'BET:3:RANDOMTWO2', '3', 'FOLD', 'CALL', 'RAISE:6:19', '9.919901074999999'] 
-
-raise odds 0.59375 0.840259983919
-['GETACTION', '16', '4', '7s', '3s', '7c', '7d', '2', 'CALL:FOLDERBOT2', 'DEAL:TURN', '2', 'CHECK', 'BET:2:16', '9.915273086'] 
-
-raise odds 0.5 1.11535781292
-['HANDOVER', '8', '-8', '4', '7s', '3s', '7c', '7d', '4', 'BET:16:FOLDERBOT2', 'FOLD:RANDOMTWO2', 'REFUND:16:FOLDERBOT2', 'WIN:16:FOLDERBOT2', '9.913413322999999'] 
-
-['REQUESTKEYVALUES', '2000'] 
-
-Gameover, engine disconnected.
+Traceback (most recent call last):
+  File "Player.py", line 4, in <module>
+    import newhand, getaction
+  File "/home/ttruong/Desktop/pokerbot/d/getaction.py", line 21
+    s.send("CALL\n")
+                   ^
+IndentationError: unindent does not match any outer indentation level

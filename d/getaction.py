@@ -18,4 +18,4 @@ def move(data,oppName,holeCards,button,s,evaluator,network):
 	legalActions = data[5 + numBoardCards + numLastActions:-1]
 	timebank = data[-1]
   
-  s.send("CALL\n")
+ 	s.send("CALL\n")
