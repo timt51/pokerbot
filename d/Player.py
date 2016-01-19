@@ -27,11 +27,11 @@ def build_cnn(input_var=None):
     # Convolutional layer with 32 kernels of size 5x5. Strided and padded
     # convolutions are supported as well; see the docstring.
     network = lasagne.layers.Conv2DLayer(
-            network, num_filters=16, filter_size=(3, 3),
+            network, num_filters=24, filter_size=(3, 3),
             nonlinearity=lasagne.nonlinearities.rectify,
             W=lasagne.init.GlorotUniform())
     network = lasagne.layers.Conv2DLayer(
-            network, num_filters=16, filter_size=(3,3),
+            network, num_filters=24, filter_size=(3,3),
             nonlinearity=lasagne.nonlinearities.rectify,
             W=lasagne.init.GlorotUniform())
     # Expert note: Lasagne provides alternative convolutional layers that
@@ -43,10 +43,10 @@ def build_cnn(input_var=None):
 
     # Another convolution with 32 5x5 kernels, and another 2x2 pooling:
     network = lasagne.layers.Conv2DLayer(
-            network, num_filters=32, filter_size=(3, 3),
+            network, num_filters=48, filter_size=(3, 3),
             nonlinearity=lasagne.nonlinearities.rectify)
     network = lasagne.layers.Conv2DLayer(
-            network, num_filters=32, filter_size=(3,3),
+            network, num_filters=48, filter_size=(3,3),
             nonlinearity=lasagne.nonlinearities.rectify)
     network = lasagne.layers.MaxPool2DLayer(network, pool_size=(2, 2))
 
