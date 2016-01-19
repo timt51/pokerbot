@@ -22,7 +22,7 @@ def move(data,oppName,holeCards,button,s,evaluator):
 
 		print "raise odds", raise_odds, (1- avg_rank/7462) + 0.4
 
-		if (1- avg_rank/7462) - random.random()/10 > raise_odds:
+		if (1- avg_rank/7462) + random.random()/10 > raise_odds:
 			if "RAISE" in legalActions[-1]:
 				s.send("RAISE:" + max_raise + "\n")
 			elif "BET" in legalActions[-1]:

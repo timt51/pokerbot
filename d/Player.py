@@ -3,7 +3,7 @@ import socket
 import sys
 import newhand, getaction
 from deuces import Evaluator
-import data_to_tensor_helper as hp
+import data_to_tensor_helper_x as hp
 import os
 import time
 import cPickle
