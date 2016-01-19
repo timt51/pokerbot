@@ -27,7 +27,11 @@ def build_cnn(input_var=None):
     # Convolutional layer with 32 kernels of size 5x5. Strided and padded
     # convolutions are supported as well; see the docstring.
     network = lasagne.layers.Conv2DLayer(
-            network, num_filters=32, filter_size=(5, 5),
+            network, num_filters=16, filter_size=(3, 3),
+            nonlinearity=lasagne.nonlinearities.rectify,
+            W=lasagne.init.GlorotUniform())
+    network = lasagne.layers.Conv2DLayer(
+            network, num_filters=16, filter_size=(3,3),
             nonlinearity=lasagne.nonlinearities.rectify,
             W=lasagne.init.GlorotUniform())
     # Expert note: Lasagne provides alternative convolutional layers that
@@ -39,21 +43,35 @@ def build_cnn(input_var=None):
 
     # Another convolution with 32 5x5 kernels, and another 2x2 pooling:
     network = lasagne.layers.Conv2DLayer(
-            network, num_filters=32, filter_size=(5, 5),
+            network, num_filters=32, filter_size=(3, 3),
+            nonlinearity=lasagne.nonlinearities.rectify)
+    network = lasagne.layers.Conv2DLayer(
+            network, num_filters=32, filter_size=(3,3),
             nonlinearity=lasagne.nonlinearities.rectify)
     network = lasagne.layers.MaxPool2DLayer(network, pool_size=(2, 2))
 
-    # A fully-connected layer of 256 units with 50% dropout on its inputs:
     network = lasagne.layers.DenseLayer(
-            lasagne.layers.dropout(network, p=.5),
-            num_units=256,
-            nonlinearity=lasagne.nonlinearities.rectify)
+            network, num_units=512,
+            nonlinearity=lasagne.nonlinearities.rectify,
+            W=lasagne.init.GlorotUniform())
 
-    # And, finally, the 10-unit output layer with 50% dropout on its inputs:
+    network = lasagne.layers.DropoutLayer(network, p=0.5)
+
     network = lasagne.layers.DenseLayer(
-            lasagne.layers.dropout(network, p=.5),
-            num_units=5,
-            nonlinearity=lasagne.nonlinearities.softmax)
+            network, num_units=5,
+            nonlinearity=lasagne.nonlinearities.softmax,
+            W=lasagne.init.GlorotUniform())
+    # A fully-connected layer of 256 units with 50% dropout on its inputs:
+    # network = lasagne.layers.DenseLayer(
+    #         lasagne.layers.dropout(network, p=.5),
+    #         num_units=256,
+    #         nonlinearity=lasagne.nonlinearities.rectify)
+
+    # # And, finally, the 10-unit output layer with 50% dropout on its inputs:
+    # network = lasagne.layers.DenseLayer(
+    #         lasagne.layers.dropout(network, p=.5),
+    #         num_units=5,
+    #         nonlinearity=lasagne.nonlinearities.softmax)
 
     return network
     
