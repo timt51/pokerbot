@@ -250,7 +250,7 @@ if __name__ == '__main__':
         print 'Error connecting! Aborting'
         exit()
 
-    with open('network.pickle') as f:
+    with open('network.pkl') as f:
         all_param_values = cPickle.load(f)
     f.close()
     input_var = T.tensor4('inputs')

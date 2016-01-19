@@ -341,7 +341,7 @@ def main(model='mlp', num_epochs=8):
     #     print("Predicted class for first test input: %r \n" % predict_fn([X_test[i]]))
     #     print(y_test[i])
         
-    with open('network.pickle', 'w') as f:
+    with open('network.pkl', 'w') as f:
         cPickle.dump(all_param_values,f)
     f.close()
 
