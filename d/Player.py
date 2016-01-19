@@ -86,7 +86,7 @@ class Player:
 
             # Here is where you should implement code to parse the packets from
             # the engine and act on it. We are just printing it instead.
-            print data, "\n"
+            print data
             # When appropriate, reply to the engine with a legal action.
             # The engine will ignore all spurious responses.
             # The engine will also check/fold for you if you return an
@@ -151,7 +151,7 @@ class Player:
                             river_cnt += 1
 
                 prediction = np.argmax(predict_fn(data_tensor))
-                print(prediction)
+                print(str(prediction)+"\n")
                 if prediction == 0:
                     s.send("FOLD\n")
                 elif prediction == 1:
@@ -162,13 +162,19 @@ class Player:
                     print legalActions
                     for action in legalActions:
                         if "BET" in action:
-                            s.send("BET:"+action.split(':')[-1]+"\n")
+                            s.send("BET:"+action.split(':')[-2]+"\n")
+                            break
+                        elif "RAISE" in action:
+                            s.send("RAISE:"+action.split(':')[-2]+"\n")
                             break
                     s.send("CALL\n")
                 else:
                     for action in legalActions:
                         if "RAISE" in action:
-                            s.send("RAISE:"+action.split(':')[-1]+"\n")
+                            s.send("RAISE:"+action.split(':')[-2]+"\n")
+                            break
+                        elif "RAISE" in action:
+                            s.send("BET:"+action.split(':')[-2]+"\n")
                             break
                     s.send("CALL\n")
 
