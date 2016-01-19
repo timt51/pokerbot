@@ -2,11 +2,11 @@
 Hand #1, FOLDERBOT (0), RANDOMTWO (0)
 FOLDERBOT posts the blind of 1
 RANDOMTWO posts the blind of 2
-Dealt to FOLDERBOT [4c 3h 3c Qd]
-Dealt to RANDOMTWO [9s 2s Tc Kd]
+Dealt to FOLDERBOT [8h 7d 4h Jc]
+Dealt to RANDOMTWO [5s Kc 9c Ad]
 FOLDERBOT calls
 RANDOMTWO checks
-*** FLOP *** (4) [7s 8h 7d]
+*** FLOP *** (4) [9s 6h Ah]
 RANDOMTWO bets 4
 FOLDERBOT folds
 Uncalled bet of 4 returned to RANDOMTWO

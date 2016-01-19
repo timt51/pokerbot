@@ -1,12 +1,12 @@
 Connecting to localhost:3000
 ['NEWGAME', 'FOLDERBOT', 'RANDOMTWO', '400', '2', '1', '10.000000']
-['NEWHAND', '1', 'true', '4c', '3h', '3c', 'Qd', '0', '0', '10.000000']
+['NEWHAND', '1', 'true', '8h', '7d', '4h', 'Jc', '0', '0', '10.000000']
 ['GETACTION', '3', '0', '2', 'POST:1:FOLDERBOT', 'POST:2:RANDOMTWO', '3', 'CALL', 'FOLD', 'RAISE:4:6', '10.0']
 2
 
-['GETACTION', '8', '3', '7s', '8h', '7d', '4', 'CALL:FOLDERBOT', 'CHECK:RANDOMTWO', 'DEAL:FLOP', 'BET:4:RANDOMTWO', '3', 'FOLD', 'CALL', 'RAISE:8:16', '9.808428055']
+['GETACTION', '8', '3', '9s', '6h', 'Ah', '4', 'CALL:FOLDERBOT', 'CHECK:RANDOMTWO', 'DEAL:FLOP', 'BET:4:RANDOMTWO', '3', 'FOLD', 'CALL', 'RAISE:8:16', '9.732602275']
 1
 
-['HANDOVER', '-2', '2', '3', '7s', '8h', '7d', '3', 'FOLD:FOLDERBOT', 'REFUND:4:RANDOMTWO', 'WIN:4:RANDOMTWO', '9.800589858']
+['HANDOVER', '-2', '2', '3', '9s', '6h', 'Ah', '3', 'FOLD:FOLDERBOT', 'REFUND:4:RANDOMTWO', 'WIN:4:RANDOMTWO', '9.72789476']
 ['REQUESTKEYVALUES', '2000']
 Gameover, engine disconnected.

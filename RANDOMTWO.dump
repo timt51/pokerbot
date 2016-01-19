@@ -1,15 +1,15 @@
 Connecting to localhost:3001
 ['NEWGAME', 'RANDOMTWO', 'FOLDERBOT', '400', '2', '1', '10.000000'] 
 
-['NEWHAND', '1', 'false', '9s', '2s', 'Tc', 'Kd', '0', '0', '10.000000'] 
+['NEWHAND', '1', 'false', '5s', 'Kc', '9c', 'Ad', '0', '0', '10.000000'] 
 
 ['GETACTION', '4', '0', '3', 'POST:1:FOLDERBOT', 'POST:2:RANDOMTWO', 'CALL:FOLDERBOT', '2', 'CHECK', 'RAISE:4:6', '10.0'] 
 
-raise odds 0.6 0.780931385687
-['GETACTION', '4', '3', '7s', '8h', '7d', '2', 'CHECK:RANDOMTWO', 'DEAL:FLOP', '2', 'CHECK', 'BET:2:4', '9.996493599'] 
+raise odds 0.6 0.813988206915
+['GETACTION', '4', '3', '9s', '6h', 'Ah', '2', 'CHECK:RANDOMTWO', 'DEAL:FLOP', '2', 'CHECK', 'BET:2:4', '9.99641735'] 
 
-raise odds 0.5 0.861724738676
-['HANDOVER', '2', '-2', '3', '7s', '8h', '7d', '4', 'BET:4:RANDOMTWO', 'FOLD:FOLDERBOT', 'REFUND:4:RANDOMTWO', 'WIN:4:RANDOMTWO', '9.989397088'] 
+raise odds 0.5 1.10634146341
+['HANDOVER', '2', '-2', '3', '9s', '6h', 'Ah', '4', 'BET:4:RANDOMTWO', 'FOLD:FOLDERBOT', 'REFUND:4:RANDOMTWO', 'WIN:4:RANDOMTWO', '9.988477044'] 
 
 ['REQUESTKEYVALUES', '2000'] 
 
