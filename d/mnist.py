@@ -337,10 +337,10 @@ def main(model='mlp', num_epochs=2):
     print('ok')
     predict_fn = theano.function([input_var], test_prediction)
     print('ok')
-    # for i in range(1,40):
-    #     print('ok')
-    #     print("Predicted class for first test input: %r \n" % predict_fn([X_test[i]]))
-    #     print(y_test[i])
+    for i in range(1,40):
+        print('ok')
+        print("Predicted class for first test input: %r \n" % predict_fn([X_train[i]]))
+        print(y_train[i])
         
     with open('network.pkl', 'w') as f:
         cPickle.dump(all_param_values,f)
