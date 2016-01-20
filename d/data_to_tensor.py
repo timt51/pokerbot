@@ -7,8 +7,10 @@ from sys import getsizeof
 pp = pprint.PrettyPrinter(indent=4)
 
 def get_data():
+	print('ok')
 	with open('data.pickle') as f:
 		data = cPickle.load(f)
+	print('ok')
 
 	x_data = {}
 	y_data = {}
@@ -93,7 +95,7 @@ def get_data():
 				idx = 4
 			end_tensor = [0, 0, 0, 0, 0]
 			end_tensor[idx] = amount_won/400.0
-
+			print(end_tensor)
 			x_data[oppName].append(game_tensor)
 			y_data[oppName].append(end_tensor)
 
