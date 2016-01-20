@@ -252,7 +252,7 @@ def main(model='mlp', num_epochs=2):
     # Descent (SGD) with Nesterov momentum, but Lasagne offers plenty more.
     params = lasagne.layers.get_all_params(network, trainable=True)
     updates = lasagne.updates.nesterov_momentum(
-            loss, params, learning_rate=0.2, momentum=0.90)
+            loss, params, learning_rate=2.0, momentum=0.90)
 
     # Create a loss expression for validation/testing. The crucial difference
     # here is that we do a deterministic forward pass through the network,
