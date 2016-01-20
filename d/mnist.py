@@ -18,6 +18,7 @@ import sys
 import os
 import time
 import cPickle
+import data_to_tensor
 
 import numpy as np
 import theano
@@ -31,8 +32,8 @@ import lasagne
 # and loading it into numpy arrays. It doesn't involve Lasagne at all.
 
 def load_dataset():
-    with open('data_tensors.pickle') as f:
-	    x_data, y_data = cPickle.load(f)
+    x_data, y_data = data_to_tensor.get_data()
+    print('---------------ok--------------------')
 
     x_data = np.array(x_data['RANDOMTWO'])
     y_data = np.array(y_data['RANDOMTWO'])
@@ -216,7 +217,7 @@ def iterate_minibatches(inputs, targets, batchsize, shuffle=False):
 # more functions to better separate the code, but it wouldn't make it any
 # easier to read.
 
-def main(model='mlp', num_epochs=8):
+def main(model='mlp', num_epochs=2):
     # Load the dataset
     print("Loading data...")
     X_train, y_train = load_dataset()
