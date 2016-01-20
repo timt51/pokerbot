@@ -94,7 +94,7 @@ def get_data():
 			elif last_move == 'raises':
 				idx = 4
 			end_tensor = [0, 0, 0, 0, 0]
-			end_tensor[idx] = amount_won/400.0
+			end_tensor[idx] = amount_won/100.0
 			
 			x_data[oppName].append(game_tensor)
 			y_data[oppName].append(end_tensor)
