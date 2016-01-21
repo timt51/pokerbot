@@ -32,19 +32,19 @@ import lasagne
 # and loading it into numpy arrays. It doesn't involve Lasagne at all.
 
 def load_dataset():
-    x_data, y_data = data_to_tensor.get_data()
+    X_train, y_train = data_to_tensor.get_data()
     print('---------------ok--------------------')
 
-    x_data = np.array(x_data['RANDOMTWO'])
-    y_data = np.array(y_data['RANDOMTWO'])
+    # x_data = np.array(x_data['RANDOMTWO'])
+    # y_data = np.array(y_data['RANDOMTWO'])
 
     # data_size = len(x_data)
     # train = (x_data[:data_size/2-data_size/20], y_data[:data_size/2-data_size/20])
     # valid = (x_data[data_size/2-data_size/20:data_size/2], y_data[data_size/2-data_size/20:data_size/2])
     # test = (x_data[data_size/2:], y_data[data_size/2:])
 
-    X_train = x_data
-    y_train = y_data
+    # X_train = x_data
+    # y_train = y_data
     # X_val = valid[0]
     # y_val = valid[1]
     # X_test = test[0]

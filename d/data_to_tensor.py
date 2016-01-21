@@ -2,7 +2,7 @@ import cPickle
 import copy
 import data_to_tensor_helper as hp
 import pprint
-import numpy
+import numpy as np
 from sys import getsizeof
 pp = pprint.PrettyPrinter(indent=4)
 
@@ -16,9 +16,9 @@ def get_data():
 	y_data = {}
 
 	for oppName in data:
-		x_data[oppName] = []
-		y_data[oppName] = []
-
+		x_data[oppName] = np.zeros((300000,40,17,17))
+		y_data[oppName] = np.zeros((300000,5))
+		cnt = 0
 		for game in data[oppName]:
 			last_round = hp.last_round(game)
 			#ignore games that tie
@@ -95,11 +95,16 @@ def get_data():
 				idx = 4
 			end_tensor = [0, 0, 0, 0, 0]
 			end_tensor[idx] = amount_won/100.0
+		
+			x_data[oppName][cnt] = np.array(game_tensor)
+			y_data[oppName][cnt] = np.array(end_tensor)
+
+			cnt +=1
+		x_data[oppName] = x_data[oppName][:cnt+1]
+		y_data[oppName] = y_data[oppName][:cnt+1]
 			
-			x_data[oppName].append(game_tensor)
-			y_data[oppName].append(end_tensor)
 
 
 	#print pp.pprint(y_data[oppName])
 	#print pp.pprint(data)
-	return x_data, y_data
+	return x_data[oppName], y_data[oppName]
