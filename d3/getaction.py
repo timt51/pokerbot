@@ -16,23 +16,26 @@ def move(data,oppName,holeCards,button,s,evaluator):
 	avg_rank = average_rank(evaluator, holeCards, boardCards)
 	call_odds = odds(oppName, potSize, lastActions)
 
-	if "RAISE" in legalActions[-1] or "BET" in legalActions[-1]:
-		max_raise = legalActions[-1].split(':')[-1]
-		raise_odds = int(max_raise) / (int(potSize) + int(max_raise) + 0.0)
-
-		print "raise odds", raise_odds, (1- avg_rank/7462) + 0.4
-
-		if (1- avg_rank/7462) + random.random()/10 > raise_odds:
-			if "RAISE" in legalActions[-1]:
-				s.send("RAISE:" + max_raise + "\n")
-			elif "BET" in legalActions[-1]:
-				s.send("BET:" + max_raise + "\n")
-		else:
-			s.send("CALL\n")
-	elif (1 - avg_rank/7462) - random.random()/6 > call_odds:
-			s.send("CALL\n")
+	if random.random() < 0.05:
+		s.send("FOLD\n")
 	else:
-			s.send("FOLD\n")
+		if "RAISE" in legalActions[-1] or "BET" in legalActions[-1]:
+			max_raise = legalActions[-1].split(':')[-1]
+			raise_odds = int(max_raise) / (int(potSize) + int(max_raise) + 0.0)
+
+			print "raise odds", raise_odds, (1- avg_rank/7462) + 0.4
+
+			if (1- avg_rank/7462) - random.random()/10 > raise_odds:
+				if "RAISE" in legalActions[-1]:
+					s.send("RAISE:" + max_raise + "\n")
+				elif "BET" in legalActions[-1]:
+					s.send("BET:" + max_raise + "\n")
+			else:
+				s.send("CALL\n")
+		elif (1 - avg_rank/7462) - random.random()/6 > call_odds:
+				s.send("CALL\n")
+		else:
+				s.send("FOLD\n")
 
 	# if "POST" in "".join(lastActions):
 	# 	if button == True:
