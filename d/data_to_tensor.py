@@ -16,8 +16,8 @@ def get_data():
 	y_data = {}
 
 	for oppName in data:
-		x_data[oppName] = np.zeros((300000,40,17,17))
-		y_data[oppName] = np.zeros((300000,5))
+		x_data[oppName] = np.zeros((1000,40,17,17))
+		y_data[oppName] = np.zeros((1000,5))
 		cnt = 0
 		for game in data[oppName]:
 			last_round = hp.last_round(game)
