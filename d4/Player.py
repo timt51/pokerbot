@@ -16,6 +16,10 @@ class Player:
         # Get a file-object for reading packets from the socket.
         # Using this ensures that you get exactly one packet per read.
         f_in = input_socket.makefile()
+        preflop_bets = 0
+        flop_bets = 0
+        turn_bets = 0
+        river_bets = 0
         while True:
             # Block until the engine sends us a packet.
             data = f_in.readline().strip().split()
@@ -37,7 +41,27 @@ class Player:
             word = data[0]
             if word == "GETACTION":
                 # Currently CHECK on every move. You'll want to change this.
-                getaction.move(data,oppName,holeCards,button,s,evaluator)
+                numBoardCards = int(data[2])
+                if numBoardCards == 0:
+                    bets_this_round = preflop_bets
+                elif numBoardCards == 3:
+                    bets_this_round = flop_bets
+                elif numBoardCards == 4:
+                    bets_this_round = turn_bets
+                elif numBoardCards == 5:
+                    bets_this_round = river_bets
+
+                getaction.move(data,oppName,holeCards,button,s,evaluator,bets_this_round)
+                
+                if numBoardCards == 0:
+                    preflop_bets += 1.5
+                elif numBoardCards == 3:
+                    flop_bets += 1.5
+                elif numBoardCards == 4:
+                    turn_bets += 1.5
+                elif numBoardCards == 5:
+                    river_bets += 1.5
+
             elif word == "NEWHAND":
                 handID = data[1]
                 button = bool(data[2])
@@ -60,6 +84,10 @@ class Player:
                 numLastActions = int(data[4 + numBoardCards])
                 lastActions = data[5 + numLastActions:-1]
                 timeBank = data[-1]
+                preflop_bets = 0
+                flop_bets = 0
+                turn_bets = 0
+                river_bets = 0
             elif word == "REQUESTKEYVALUES":
                 # At the end, the engine will allow your bot save key/value pairs.
                 # Send FINISH to indicate you're done.
