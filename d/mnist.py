@@ -217,7 +217,7 @@ def iterate_minibatches(inputs, targets, batchsize, shuffle=False):
 # more functions to better separate the code, but it wouldn't make it any
 # easier to read.
 
-def main(model='mlp', num_epochs=2):
+def main(model='mlp', num_epochs=5):
     # Load the dataset
     print("Loading data...")
     X_train, y_train = load_dataset()
@@ -252,7 +252,7 @@ def main(model='mlp', num_epochs=2):
     # Descent (SGD) with Nesterov momentum, but Lasagne offers plenty more.
     params = lasagne.layers.get_all_params(network, trainable=True)
     updates = lasagne.updates.nesterov_momentum(
-            loss, params, learning_rate=2.0, momentum=0.90)
+            loss, params, learning_rate=0.02, momentum=0.90)
 
     # Create a loss expression for validation/testing. The crucial difference
     # here is that we do a deterministic forward pass through the network,

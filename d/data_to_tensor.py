@@ -16,8 +16,8 @@ def get_data():
 	y_data = {}
 
 	for oppName in data:
-		x_data[oppName] = np.zeros((1000,40,17,17))
-		y_data[oppName] = np.zeros((1000,5))
+		x_data[oppName] = np.zeros((100000,40,17,17))
+		y_data[oppName] = np.zeros((100000,5))
 		cnt = 0
 		for game in data[oppName]:
 			last_round = hp.last_round(game)
@@ -94,7 +94,13 @@ def get_data():
 			elif last_move == 'raises':
 				idx = 4
 			end_tensor = [0, 0, 0, 0, 0]
-			end_tensor[idx] = amount_won/100.0
+			# if 'preflop' == last_round:
+			# 	potSize = 3
+			# elif 'showdown' == last_round:
+			# 	potSize = abs(int(game[last_round]['WIN']))
+			# else:
+			# 	potSize = int(game[last_round]['POT'])
+			end_tensor[idx] = 1.0*amount_won/200
 		
 			x_data[oppName][cnt] = np.array(game_tensor)
 			y_data[oppName][cnt] = np.array(end_tensor)
