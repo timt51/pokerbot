@@ -133,7 +133,7 @@ def build_cnn(input_var=None):
     # and a fully-connected hidden layer in front of the output layer.
 
     # Input layer, as usual:
-    network = lasagne.layers.InputLayer(shape=(None, 40, 17, 17),
+    network = lasagne.layers.InputLayer(shape=(None, 35, 17, 17),
                                         input_var=input_var)
     # This time we do not apply input dropout, as it tends to work less well
     # for convolutional layers.
@@ -217,7 +217,7 @@ def iterate_minibatches(inputs, targets, batchsize, shuffle=False):
 # more functions to better separate the code, but it wouldn't make it any
 # easier to read.
 
-def main(model='mlp', num_epochs=5):
+def main(model='mlp', num_epochs=2):
     # Load the dataset
     print("Loading data...")
     X_train, y_train = load_dataset()
@@ -273,6 +273,10 @@ def main(model='mlp', num_epochs=5):
     val_fn = theano.function([input_var, target_var], [test_loss, test_acc])
 
     # Finally, launch the training loop.
+    with open('network.pkl') as f:
+        all_param_values = cPickle.load(f)
+    f.close()
+    lasagne.layers.set_all_param_values(network, all_param_values)
     print("Starting training...")
     # We iterate over epochs:
     for epoch in range(num_epochs):

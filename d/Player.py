@@ -19,7 +19,7 @@ def build_cnn(input_var=None):
     # and a fully-connected hidden layer in front of the output layer.
 
     # Input layer, as usual:
-    network = lasagne.layers.InputLayer(shape=(None, 40, 17, 17),
+    network = lasagne.layers.InputLayer(shape=(None, 35, 17, 17),
                                         input_var=input_var)
     # This time we do not apply input dropout, as it tends to work less well
     # for convolutional layers.
@@ -87,7 +87,7 @@ class Player:
         # Get a file-object for reading packets from the socket.
         # Using this ensures that you get exactly one packet per read.
         f_in = input_socket.makefile()
-        data_tensor = [[[[0 for i in xrange(17)] for i in xrange(17)] for i in xrange(40)]]
+        data_tensor = [[[[0 for i in xrange(17)] for i in xrange(17)] for i in xrange(35)]]
         preflop_cnt = 12
         flop_cnt = 19
         turn_cnt = 26
@@ -104,7 +104,7 @@ class Player:
 
             # Here is where you should implement code to parse the packets from
             # the engine and act on it. We are just printing it instead.
-            print data
+            # print data
             # When appropriate, reply to the engine with a legal action.
             # The engine will ignore all spurious responses.
             # The engine will also check/fold for you if you return an
@@ -170,6 +170,7 @@ class Player:
 
                 prediction = np.argmax(predict_fn(data_tensor))
                 print(str(prediction)+"\n")
+                taken = False
                 if prediction == 0:
                     s.send("FOLD\n")
                 elif prediction == 1:
@@ -177,23 +178,26 @@ class Player:
                 elif prediction == 2:
                     s.send("CALL\n")
                 elif prediction == 3:
-                    print legalActions
                     for action in legalActions:
                         if "BET" in action:
                             s.send("BET:"+action.split(':')[-1]+"\n")
+                            taken = True
                             break
                         elif "RAISE" in action:
                             s.send("RAISE:"+action.split(':')[-1]+"\n")
+                            take = True
                             break
-                    s.send("CALL\n")
                 else:
                     for action in legalActions:
                         if "RAISE" in action:
                             s.send("RAISE:"+action.split(':')[-1]+"\n")
+                            take = True
                             break
-                        elif "RAISE" in action:
+                        elif "BET" in action:
                             s.send("BET:"+action.split(':')[-1]+"\n")
+                            taken = True
                             break
+                if taken == False:
                     s.send("CALL\n")
 
             elif word == "NEWHAND":
@@ -223,7 +227,7 @@ class Player:
                 numLastActions = int(data[4 + numBoardCards])
                 lastActions = data[5 + numLastActions:-1]
                 timeBank = data[-1]
-                data_tensor = [[[[0 for i in xrange(17)] for i in xrange(17)] for i in xrange(40)]]
+                data_tensor = [[[[0 for i in xrange(17)] for i in xrange(17)] for i in xrange(35)]]
                 preflop_cnt = 12
                 flop_cnt = 19
                 turn_cnt = 26

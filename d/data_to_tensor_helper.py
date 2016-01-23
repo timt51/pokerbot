@@ -10,27 +10,59 @@ for i in xrange(2,15):
 	for j in xrange(6,10):
 		one_tensor[j][i] = 1
 betting_tensor = [[[0 for i in xrange(17)] for j in xrange(17)] for k in xrange(7)]
-cards_tensor = [[[0 for i in xrange(17)] for j in xrange(17)] for k in xrange(10)]
+cards_tensor = [[[0 for i in xrange(17)] for j in xrange(17)] for k in xrange(5)]
 suits = {'d':6, 'c':7, 'h':8, 's': 9}
 value = {'A':14, '2':2, '3':3, '4':4, '5':5, '6':6, '7':7, '8':8, '9':9, 'T':10, 'J':11, 'Q':12, 'K':13}
 prev_round = {'flop': 'preflop', 'turn': 'flop', 'river': 'turn', 'showdown': 'river'}
+
+# def cards_as_tensor(hole_cards, board_cards):
+# 	all_cards = hole_cards + board_cards
+# 	cards_tensor_mod = copy.deepcopy(cards_tensor)
+
+# 	count = 0
+# 	for card in all_cards:
+# 		cards_tensor_mod[count][suits[card[1]]][value[card[0]]] = 1
+# 		count += 1
+
+# 	last_cards_tensor = copy.deepcopy(np.matrix(zero_tensor))
+# 	for matrix in cards_tensor_mod:
+# 		last_cards_tensor = last_cards_tensor + np.matrix(matrix)
+# 	last_cards_tensor = last_cards_tensor.tolist()
+
+# 	cards_tensor_mod[9] = last_cards_tensor
+# 	return cards_tensor_mod
 
 def cards_as_tensor(hole_cards, board_cards):
 	all_cards = hole_cards + board_cards
 	cards_tensor_mod = copy.deepcopy(cards_tensor)
 
 	count = 0
-	for card in all_cards:
+	for card in hole_cards:
 		cards_tensor_mod[count][suits[card[1]]][value[card[0]]] = 1
+
+	numBoardCards = len(board_cards)
+	if numBoardCards >= 3:
 		count += 1
+		for card in board_cards[:3]:
+			cards_tensor_mod[count][suits[card[1]]][value[card[0]]] = 1
+	if numBoardCards >= 4:
+		count += 1
+		for card in board_cards[:4]:
+			cards_tensor_mod[count][suits[card[1]]][value[card[0]]] = 1
+	if numBoardCards >= 5:
+		count += 1
+		for card in board_cards[:5]:
+			cards_tensor_mod[count][suits[card[1]]][value[card[0]]] = 1
 
 	last_cards_tensor = copy.deepcopy(np.matrix(zero_tensor))
 	for matrix in cards_tensor_mod:
 		last_cards_tensor = last_cards_tensor + np.matrix(matrix)
 	last_cards_tensor = last_cards_tensor.tolist()
 
-	cards_tensor_mod[9] = last_cards_tensor
+	cards_tensor_mod[-1] = last_cards_tensor
+
 	return cards_tensor_mod
+
 
 def last_round(game):
 	if 'showdown' in game:

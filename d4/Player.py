@@ -30,7 +30,7 @@ class Player:
 
             # Here is where you should implement code to parse the packets from
             # the engine and act on it. We are just printing it instead.
-            print data, "\n"
+            # print data, "\n"
 
             # When appropriate, reply to the engine with a legal action.
             # The engine will ignore all spurious responses.
