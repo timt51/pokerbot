@@ -54,9 +54,7 @@ def cards_as_tensor(hole_cards, board_cards):
 		for card in board_cards[:5]:
 			cards_tensor_mod[count][suits[card[1]]][value[card[0]]] = 1
 
-	last_cards_tensor = copy.deepcopy(np.matrix(zero_tensor))
-	for matrix in cards_tensor_mod:
-		last_cards_tensor = last_cards_tensor + np.matrix(matrix)
+	last_cards_tensor = np.matrix(cards_tensor_mod[0]) + np.matrix(cards_tensor_mod[count])
 	last_cards_tensor = last_cards_tensor.tolist()
 
 	cards_tensor_mod[-1] = last_cards_tensor

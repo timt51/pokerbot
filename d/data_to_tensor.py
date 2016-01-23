@@ -104,6 +104,7 @@ def get_data():
 		
 			x_data[oppName][cnt] = np.array(game_tensor)
 			y_data[oppName][cnt] = np.array(end_tensor)
+			print pp.pprint(game_tensor[4])
 
 			cnt +=1
 		x_data[oppName] = x_data[oppName][:cnt+1]
