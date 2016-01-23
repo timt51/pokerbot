@@ -273,10 +273,10 @@ def main(model='mlp', num_epochs=2):
     val_fn = theano.function([input_var, target_var], [test_loss, test_acc])
 
     # Finally, launch the training loop.
-    with open('network.pkl') as f:
-        all_param_values = cPickle.load(f)
-    f.close()
-    lasagne.layers.set_all_param_values(network, all_param_values)
+    # with open('network.pkl') as f:
+    #     all_param_values = cPickle.load(f)
+    # f.close()
+    # lasagne.layers.set_all_param_values(network, all_param_values)
     print("Starting training...")
     # We iterate over epochs:
     for epoch in range(num_epochs):
