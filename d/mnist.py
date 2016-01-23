@@ -142,11 +142,11 @@ def build_cnn(input_var=None):
     # convolutions are supported as well; see the docstring.
     network = lasagne.layers.Conv2DLayer(
             network, num_filters=24, filter_size=(3, 3),
-            nonlinearity=lasagne.nonlinearities.rectify,
+            nonlinearity=lasagne.nonlinearities.tanh,
             W=lasagne.init.GlorotUniform())
     network = lasagne.layers.Conv2DLayer(
             network, num_filters=24, filter_size=(3,3),
-            nonlinearity=lasagne.nonlinearities.rectify,
+            nonlinearity=lasagne.nonlinearities.tanh,
             W=lasagne.init.GlorotUniform())
     # Expert note: Lasagne provides alternative convolutional layers that
     # override Theano's choice of which implementation to use; for details
@@ -158,15 +158,15 @@ def build_cnn(input_var=None):
     # Another convolution with 32 5x5 kernels, and another 2x2 pooling:
     network = lasagne.layers.Conv2DLayer(
             network, num_filters=48, filter_size=(3, 3),
-            nonlinearity=lasagne.nonlinearities.rectify)
+            nonlinearity=lasagne.nonlinearities.tanh)
     network = lasagne.layers.Conv2DLayer(
             network, num_filters=48, filter_size=(3,3),
-            nonlinearity=lasagne.nonlinearities.rectify)
+            nonlinearity=lasagne.nonlinearities.tanh)
     network = lasagne.layers.MaxPool2DLayer(network, pool_size=(2, 2))
 
     network = lasagne.layers.DenseLayer(
             network, num_units=512,
-            nonlinearity=lasagne.nonlinearities.rectify,
+            nonlinearity=lasagne.nonlinearities.tanh,
             W=lasagne.init.GlorotUniform())
 
     network = lasagne.layers.DropoutLayer(network, p=0.5)

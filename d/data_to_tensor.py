@@ -100,7 +100,7 @@ def get_data():
 			# 	potSize = abs(int(game[last_round]['WIN']))
 			# else:
 			# 	potSize = int(game[last_round]['POT'])
-			end_tensor[idx] = (amount_won/400.00000) + 1
+			end_tensor[idx] = (amount_won/800.00000)
 		
 			x_data[oppName][cnt] = np.array(game_tensor)
 			y_data[oppName][cnt] = np.array(end_tensor)
