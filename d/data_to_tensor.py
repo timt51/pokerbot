@@ -86,7 +86,7 @@ def get_data():
 			idx = 1
 			if last_move == 'folds':
 				idx = 0
-				# amount_won = -400
+				# amount_won = 0
 			elif last_move == 'calls':
 				idx = 2
 			elif last_move == 'bet' or last_move == 'bets':
@@ -100,7 +100,7 @@ def get_data():
 			# 	potSize = abs(int(game[last_round]['WIN']))
 			# else:
 			# 	potSize = int(game[last_round]['POT'])
-			end_tensor[idx] = (amount_won/800.00000)
+			end_tensor[idx] = (amount_won/400.00000) + 1.75
 		
 			x_data[oppName][cnt] = np.array(game_tensor)
 			y_data[oppName][cnt] = np.array(end_tensor)
