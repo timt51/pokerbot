@@ -107,16 +107,41 @@ def betting_as_tensor(game, last_round):
 						'turn': copy.deepcopy(betting_tensor),
 						'river': copy.deepcopy(betting_tensor)}
 
+	has_button = button(game)
+
 	for a_round in ['preflop', 'flop', 'turn', 'river']:
 		if a_round != 'preflop' and game[a_round]['POT'] == '800':
 			break
-		
-		moves = game[a_round]['MOVES']
+
+		if (a_round == 'preflop') == has_button:
+			list1 = game[a_round]['MOVES'][myName]
+			list2 = game[a_round]['MOVES']['RANDOMTWO']
+			num = min(len(list1), len(list2))
+			result = [None]*(num*2)
+			result[::2] = list1[:num]
+			result[1::2] = list2[:num]
+			result.extend(list1[num:])
+			result.extend(list2[num:])
+			moves = result
+		else:
+			list2 = game[a_round]['MOVES'][myName]
+			list1 = game[a_round]['MOVES']['RANDOMTWO']
+			num = min(len(list1), len(list2))
+			result = [None]*(num*2)
+			result[::2] = list1[:num]
+			result[1::2] = list2[:num]
+			result.extend(list1[num:])
+			result.extend(list2[num:])
+			moves = result			
+
 		count = 0
 		for move in moves:
 			if move in ['raises', 'bets', 'calls']:
 				betting_tensors[a_round][count] = one_tensor
 			count += 1
+
+
+
 
 		if a_round == last_round:
 			break
