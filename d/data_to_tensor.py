@@ -89,13 +89,36 @@ def get_data():
 			else:
 				continue
 
-			# print amount_won, last_move
+			last_opp_moves = []
+			if len(game[last_round]['MOVES'][oppName]) > 0:
+				last_opp_moves = game[last_round]['MOVES'][oppName]
+			elif last_round != 'preflop':
+				for a_round in ['flop', 'turn', 'river']:
+					if game[a_round]['POT'] == '800':
+						last_opp_moves = game[hp.prev_round[a_round]]['MOVES'][oppName]
+						break
+				if last_opp_moves == []:
+					last_opp_moves = game[hp.prev_round[last_round]]['MOVES'][oppName]
+			if len(last_opp_moves) > 0:
+				last_opp_move = last_opp_moves[-1]
+
 			last_move_temp = last_move.split(':')[0]
 			if amount_won < 0:
 				if last_move_temp == "checks":
-					amount_won = 0
+					amount_won = potSize/-5.0
+				elif last_move_temp == "calls":
+					if "bets" in last_opp_move:
+						amount_won = int(last_opp_move.split(':')[-1])*-1
+					elif "raises" in last_opp_move:
+						amount_won = (int(last_opp_move.split(':')[-1])-potSize)*-1
 				elif last_move_temp == "raises":
-					amount_won = (int(last_move.split(':')[-1])-potSize)*-1
+					second_last_opp_move = last_opp_moves[-2]
+					if second_last_opp_move.split(':')[0] == "bets":
+						amount_won = (int(last_move.split(':')[-1])-(potSize+int(second_last_opp_move.split(':')[-1])))*-1
+					elif second_last_opp_move.split(':')[0] == "raises":
+						amount_won = (int(last_move.split(':')[-1])-int(second_last_opp_move.split(':')[-1]))*-1
+					else:
+						amount_won = (int(last_move.split(':')[-1])-potSize)*-1
 				elif last_move_temp == "bets":
 					amount_won = int(last_move.split(':')[-1])*-1
 			last_move = last_move_temp
@@ -126,7 +149,7 @@ def get_data():
 			mask_tensor = [0.0, 0.0, 0.0, 0.0, 0.0]
 
 			end_tensor[idx] = (amount_won/400.00000) + 1.75
-			# print end_tensor
+			print end_tensor
 			mask_tensor[idx] = 1.0
 		
 			x_data[oppName][cnt] = np.array(game_tensor)
