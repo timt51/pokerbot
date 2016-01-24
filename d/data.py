@@ -69,7 +69,10 @@ for filename in os.listdir(path):
 					else:
 						data[oppName][count][stage]['WIN'] = ('-' + line_split[-1].replace('(','').replace(')',''))
 				data[oppName][count][stage]['MOVES'] = {myName:[], oppName:[]}
-				data[oppName][count][stage]['MOVES'][line_split[0]].append(line_split[1])
+				if "bet" in line_split[1] or "raise" in line_split[1]:
+					data[oppName][count][stage]['MOVES'][line_split[0]].append(line_split[1]+':'+line_split[-1])
+				elif 'wins' != line_split[1]:
+					data[oppName][count][stage]['MOVES'][line_split[0]].append(line_split[1])
 				continue
 			if 'wins' == line_split[1]:
 				if line_split[0] == myName:
@@ -77,7 +80,10 @@ for filename in os.listdir(path):
 				else:
 					data[oppName][count][stage]['WIN'] = ('-' + line_split[-1].replace('(','').replace(')',''))
 			else:
-				data[oppName][count][stage]['MOVES'][line_split[0]].append(line_split[1])
+				if "bet" in line_split[1] or "raise" in line_split[1]:
+					data[oppName][count][stage]['MOVES'][line_split[0]].append(line_split[1]+':'+line_split[-1])
+				else:
+					data[oppName][count][stage]['MOVES'][line_split[0]].append(line_split[1])
 
 with open('data.pickle', 'w') as f:
 	cPickle.dump(data,f)

@@ -142,7 +142,7 @@ def betting_as_tensor(game, last_round):
 
 		count = 0
 		for move in moves:
-			if move in ['raises', 'bets', 'calls']:
+			if move.split(':')[0] in ['raises', 'bets', 'calls', 'bet']:
 				betting_tensors[a_round][count] = one_tensor
 			count += 1
 

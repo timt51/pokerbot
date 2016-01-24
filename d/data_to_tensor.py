@@ -63,15 +63,42 @@ def get_data():
 			last_move = ''
 			if len(game[last_round]['MOVES'][hp.myName]) > 0:
 				last_move = game[last_round]['MOVES'][hp.myName][-1]
+				if 'preflop' == last_round:
+					potSize = 3
+				elif 'showdown' == last_round:
+					potSize = abs(int(game[last_round]['WIN']))
+				else:
+					potSize = int(game[last_round]['POT'])
 			elif last_round != 'preflop':
 				for a_round in ['flop', 'turn', 'river']:
 					if game[a_round]['POT'] == '800':
 						last_move = game[hp.prev_round[a_round]]['MOVES'][hp.myName][-1]
+						if 'preflop' == hp.prev_round[a_round]:
+							potSize = 3
+						else:
+							potSize = int(game[hp.prev_round[a_round]]['POT'])
 						break
 				if last_move == '':
 					last_move = game[hp.prev_round[last_round]]['MOVES'][hp.myName][-1]
+					if 'preflop' == hp.prev_round[a_round]:
+						potSize = 3
+					elif 'showdown' == hp.prev_round[a_round]:
+						potSize = abs(int(game[hp.prev_round[a_round]]['WIN']))
+					else:
+						potSize = int(game[hp.prev_round[a_round]]['POT'])
 			else:
 				continue
+
+			# print amount_won, last_move
+			last_move_temp = last_move.split(':')[0]
+			if amount_won < 0:
+				if last_move_temp == "checks":
+					amount_won = 0
+				elif last_move_temp == "raises":
+					amount_won = (int(last_move.split(':')[-1])-potSize)*-1
+				elif last_move_temp == "bets":
+					amount_won = int(last_move.split(':')[-1])*-1
+			last_move = last_move_temp
 
 			game_tensor = cards_tensor
 			game_tensor.append(pot_tensor)
@@ -88,7 +115,7 @@ def get_data():
 			idx = 1
 			if last_move == 'folds':
 				idx = 0
-				# amount_won = 0
+				amount_won = 0
 			elif last_move == 'calls':
 				idx = 2
 			elif last_move == 'bet' or last_move == 'bets':
@@ -97,13 +124,9 @@ def get_data():
 				idx = 4
 			end_tensor = [0, 0, 0, 0, 0]
 			mask_tensor = [0.0, 0.0, 0.0, 0.0, 0.0]
-			# if 'preflop' == last_round:
-			# 	potSize = 3
-			# elif 'showdown' == last_round:
-			# 	potSize = abs(int(game[last_round]['WIN']))
-			# else:
-			# 	potSize = int(game[last_round]['POT'])
-			end_tensor[idx] = (amount_won/400.00000) + 1.5
+
+			end_tensor[idx] = (amount_won/400.00000) + 1.75
+			# print end_tensor
 			mask_tensor[idx] = 1.0
 		
 			x_data[oppName][cnt] = np.array(game_tensor)
