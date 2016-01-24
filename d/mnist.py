@@ -32,7 +32,7 @@ import lasagne
 # and loading it into numpy arrays. It doesn't involve Lasagne at all.
 
 def load_dataset():
-    X_train, y_train = data_to_tensor.get_data()
+    X_train, y_train, m = data_to_tensor.get_data()
     print('---------------ok--------------------')
 
     # x_data = np.array(x_data['RANDOMTWO'])
@@ -50,7 +50,7 @@ def load_dataset():
     # X_test = test[0]
     # y_test = test[1]
 
-    return X_train, y_train #, X_val, y_val, X_test, y_test
+    return X_train, y_train, m #, X_val, y_val, X_test, y_test
 
 # ##################### Build the neural network model #######################
 # This script supports three types of models. For each one, we define a
@@ -173,7 +173,7 @@ def build_cnn(input_var=None):
 
     network = lasagne.layers.DenseLayer(
             network, num_units=5,
-            nonlinearity=lasagne.nonlinearities.softmax,
+            nonlinearity=lasagne.nonlinearities.rectify,
             W=lasagne.init.GlorotUniform())
     # A fully-connected layer of 256 units with 50% dropout on its inputs:
     # network = lasagne.layers.DenseLayer(
@@ -199,7 +199,7 @@ def build_cnn(input_var=None):
 # them to GPU at once for slightly improved performance. This would involve
 # several changes in the main program, though, and is not demonstrated here.
 
-def iterate_minibatches(inputs, targets, batchsize, shuffle=False):
+def iterate_minibatches(inputs, targets, mask, batchsize, shuffle=False):
     assert len(inputs) == len(targets)
     if shuffle:
         indices = np.arange(len(inputs))
@@ -209,7 +209,7 @@ def iterate_minibatches(inputs, targets, batchsize, shuffle=False):
             excerpt = indices[start_idx:start_idx + batchsize]
         else:
             excerpt = slice(start_idx, start_idx + batchsize)
-        yield inputs[excerpt], targets[excerpt]
+        yield inputs[excerpt], targets[excerpt], mask[excerpt]
 
 
 # ############################## Main program ################################
@@ -220,11 +220,12 @@ def iterate_minibatches(inputs, targets, batchsize, shuffle=False):
 def main(model='mlp', num_epochs=2):
     # Load the dataset
     print("Loading data...")
-    X_train, y_train = load_dataset()
+    X_train, y_train, m = load_dataset()
     #, X_val, y_val, X_test, y_test
     # Prepare Theano variables for inputs and targets
     input_var = T.tensor4('inputs')
     target_var = T.matrix('targets')
+    mask_var = T.matrix('mask')
 
     # Create neural network model (depending on first command line parameter)
     print("Building model and compiling functions...")
@@ -243,7 +244,7 @@ def main(model='mlp', num_epochs=2):
     # Create a loss expression for training, i.e., a scalar objective we want
     # to minimize (for our multi-class problem, it is the cross-entropy loss):
     prediction = lasagne.layers.get_output(network)
-    loss = lasagne.objectives.squared_error(prediction, target_var)
+    loss = lasagne.objectives.squared_error(prediction, target_var)*mask_var
     loss = loss.mean()
     # We could add some weight decay as well here, see lasagne.regularization.
 
@@ -259,7 +260,7 @@ def main(model='mlp', num_epochs=2):
     # disabling dropout layers.
     test_prediction = lasagne.layers.get_output(network, deterministic=True)
     test_loss = lasagne.objectives.squared_error(test_prediction,
-                                                            target_var)
+                                                            target_var)*mask_var
     test_loss = test_loss.mean()
     # As a bonus, also create an expression for the classification accuracy:
     test_acc = T.mean(T.eq(T.argmax(test_prediction, axis=1), T.argmax(target_var, axis=1)),
@@ -267,10 +268,10 @@ def main(model='mlp', num_epochs=2):
 
     # Compile a function performing a training step on a mini-batch (by giving
     # the updates dictionary) and returning the corresponding training loss:
-    train_fn = theano.function([input_var, target_var], loss, updates=updates)
+    train_fn = theano.function([input_var, target_var, mask_var], loss, updates=updates)
 
     # Compile a second function computing the validation loss and accuracy:
-    val_fn = theano.function([input_var, target_var], [test_loss, test_acc])
+    val_fn = theano.function([input_var, target_var, mask_var], [test_loss, test_acc])
 
     # Finally, launch the training loop.
     # with open('network.pkl') as f:
@@ -284,9 +285,9 @@ def main(model='mlp', num_epochs=2):
         train_err = 0
         train_batches = 0
         start_time = time.time()
-        for batch in iterate_minibatches(X_train, y_train, 100, shuffle=True):
-            inputs, targets = batch
-            train_err += train_fn(inputs, targets)
+        for batch in iterate_minibatches(X_train, y_train, m, 100, shuffle=True):
+            inputs, targets, mask = batch
+            train_err += train_fn(inputs, targets, mask)
             print(test_prediction)
             train_batches += 1
             print(train_err, train_batches)

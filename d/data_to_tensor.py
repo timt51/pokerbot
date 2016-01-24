@@ -14,10 +14,12 @@ def get_data():
 
 	x_data = {}
 	y_data = {}
+	mask = {}
 
 	for oppName in data:
-		x_data[oppName] = np.zeros((100000,35,17,17))
-		y_data[oppName] = np.zeros((100000,5))
+		x_data[oppName] = np.zeros((5000,35,17,17))
+		y_data[oppName] = np.zeros((5000,5))
+		mask[oppName] = np.zeros((5000,5))
 		cnt = 0
 		for game in data[oppName]:
 			last_round = hp.last_round(game)
@@ -94,6 +96,7 @@ def get_data():
 			elif last_move == 'raises':
 				idx = 4
 			end_tensor = [0, 0, 0, 0, 0]
+			mask_tensor = [0.0, 0.0, 0.0, 0.0, 0.0]
 			# if 'preflop' == last_round:
 			# 	potSize = 3
 			# elif 'showdown' == last_round:
@@ -101,16 +104,19 @@ def get_data():
 			# else:
 			# 	potSize = int(game[last_round]['POT'])
 			end_tensor[idx] = (amount_won/400.00000) + 1.5
+			mask_tensor[idx] = 1.0
 		
 			x_data[oppName][cnt] = np.array(game_tensor)
 			y_data[oppName][cnt] = np.array(end_tensor)
+			mask[oppName][cnt] = np.array(mask_tensor)
 
 			cnt +=1
 		x_data[oppName] = x_data[oppName][:cnt+1]
 		y_data[oppName] = y_data[oppName][:cnt+1]
+		mask[oppName] = mask[oppName][:cnt+1]
 			
 
 
 	#print pp.pprint(y_data[oppName])
 	#print pp.pprint(data)
-	return x_data[oppName], y_data[oppName]
+	return x_data[oppName], y_data[oppName], mask[oppName]

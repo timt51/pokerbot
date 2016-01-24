@@ -59,7 +59,7 @@ def build_cnn(input_var=None):
 
     network = lasagne.layers.DenseLayer(
             network, num_units=5,
-            nonlinearity=lasagne.nonlinearities.softmax,
+            nonlinearity=lasagne.nonlinearities.rectify,
             W=lasagne.init.GlorotUniform())
     # A fully-connected layer of 256 units with 50% dropout on its inputs:
     # network = lasagne.layers.DenseLayer(
