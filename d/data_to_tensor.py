@@ -17,9 +17,9 @@ def get_data():
 	mask = {}
 
 	for oppName in data:
-		x_data[oppName] = np.zeros((5000,35,17,17))
-		y_data[oppName] = np.zeros((5000,5))
-		mask[oppName] = np.zeros((5000,5))
+		x_data[oppName] = np.zeros((100000,35,17,17))
+		y_data[oppName] = np.zeros((100000,5))
+		mask[oppName] = np.zeros((100000,5))
 		cnt = 0
 		for game in data[oppName]:
 			last_round = hp.last_round(game)
@@ -149,7 +149,7 @@ def get_data():
 			mask_tensor = [0.0, 0.0, 0.0, 0.0, 0.0]
 
 			end_tensor[idx] = (amount_won/400.00000) + 1.75
-			print end_tensor
+			# print end_tensor
 			mask_tensor[idx] = 1.0
 		
 			x_data[oppName][cnt] = np.array(game_tensor)

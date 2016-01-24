@@ -1,4608 +1,11635 @@
 Connecting to localhost:3000
-4
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'RAISE:4:6']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
-4
+['CHECK', 'BET:2:36']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['FOLD', 'CALL', 'RAISE:8:16']
 4
 
+['FOLD', 'CALL', 'RAISE:72:144']
 4
 
+['FOLD', 'CALL']
+ok
 4
 
-4
+['CHECK', 'RAISE:4:6']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
-4
+['FOLD', 'CALL', 'RAISE:8:16']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['FOLD', 'CALL', 'RAISE:24:48']
 4
 
+['FOLD', 'CALL', 'RAISE:216:346']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'BET:2:108']
 4
 
-4
+['FOLD', 'CALL']
+ok
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
-4
+['CHECK', 'BET:2:36']
+2
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
-4
+['CHECK', 'BET:2:36']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
-4
+['CHECK', 'BET:2:4']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'BET:2:108']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'BET:2:108']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
-4
+['CHECK', 'BET:2:4']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
-4
+['CHECK', 'BET:2:12']
+2
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'BET:2:108']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
-4
+['CHECK', 'BET:2:12']
+2
 
+['CHECK', 'BET:2:36']
 4
 
+['FOLD', 'CALL', 'RAISE:72:144']
 4
 
-4
+['FOLD', 'CALL']
+ok
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'BET:2:108']
 4
 
-4
+['CHECK', 'RAISE:4:6']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['FOLD', 'CALL', 'RAISE:24:48']
+2
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['FOLD', 'CALL', 'RAISE:72:144']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['FOLD', 'CALL', 'RAISE:72:144']
 4
 
-4
+['CHECK', 'RAISE:4:6']
+2
 
+['CHECK', 'BET:2:12']
 4
 
-4
+['CHECK', 'BET:2:12']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['FOLD', 'CALL', 'RAISE:8:16']
 4
 
+['FOLD', 'CALL', 'RAISE:72:144']
 4
 
+['FOLD', 'CALL']
+ok
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'BET:2:108']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['FOLD', 'CALL', 'RAISE:8:16']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'BET:2:108']
 4
 
-4
+['CHECK', 'RAISE:4:6']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
+['CHECK', 'BET:2:12']
 4
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['CHECK', 'BET:2:36']
+2
 
+['CHECK', 'BET:2:36']
 4
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'BET:2:108']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'BET:2:108']
 4
 
-4
+['FOLD', 'CALL']
+ok
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'BET:2:108']
 4
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
-4
+['CHECK', 'RAISE:4:6']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
-4
+['CHECK', 'BET:2:36']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
-4
+['CHECK', 'BET:2:4']
+2
 
+['CHECK', 'BET:2:12']
 4
 
+['FOLD', 'CALL', 'RAISE:24:48']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'BET:2:108']
 4
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'BET:2:108']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'BET:2:108']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'BET:2:108']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
-4
+['FOLD', 'CALL', 'RAISE:72:144']
+2
 
+['CHECK', 'RAISE:4:6']
 4
 
-4
+['CHECK', 'BET:2:4']
+2
 
+['CHECK', 'BET:2:12']
 4
 
-4
+['CHECK', 'BET:2:12']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
-4
+['FOLD', 'CALL', 'RAISE:72:144']
+2
 
-4
+['CHECK', 'RAISE:4:6']
+2
 
-4
+['CHECK', 'BET:2:4']
+2
 
-4
+['CHECK', 'BET:2:4']
+2
 
-4
+['CHECK', 'BET:2:4']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['FOLD', 'CALL', 'RAISE:8:16']
 4
 
+['FOLD', 'CALL', 'RAISE:72:144']
 4
 
+['FOLD', 'CALL']
+ok
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'BET:2:108']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['FOLD', 'CALL', 'RAISE:24:48']
 4
 
+['FOLD', 'CALL', 'RAISE:216:346']
 4
 
-4
+['CHECK', 'RAISE:4:6']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['FOLD', 'CALL', 'RAISE:8:16']
 4
 
+['FOLD', 'CALL', 'RAISE:72:144']
 4
 
+['FOLD', 'CALL']
+ok
 4
 
-4
+['CHECK', 'RAISE:4:6']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'RAISE:4:6']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'RAISE:4:6']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
+['CHECK', 'BET:2:12']
 4
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['FOLD', 'CALL', 'RAISE:216:346']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'BET:2:108']
 4
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'BET:2:108']
 4
 
-4
+['CHECK', 'RAISE:4:6']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'RAISE:4:6']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['FOLD', 'CALL', 'RAISE:24:48']
+2
 
-4
+['CHECK', 'BET:2:36']
+2
 
+['FOLD', 'CALL', 'RAISE:72:144']
 4
 
+['CHECK', 'BET:2:108']
 4
 
-4
+['FOLD', 'CALL']
+ok
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'BET:2:108']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'BET:2:108']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['FOLD', 'CALL', 'RAISE:24:48']
 4
 
+['FOLD', 'CALL', 'RAISE:216:346']
 4
 
-4
+['CHECK', 'RAISE:4:6']
+2
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:12']
 4
 
-4
+['CHECK', 'BET:2:36']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'BET:2:108']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
-4
+['CHECK', 'BET:2:36']
+2
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
-4
+['CHECK', 'BET:2:12']
+2
 
+['CHECK', 'BET:2:36']
 4
 
+['FOLD', 'CALL', 'RAISE:72:144']
 4
 
-4
+['FOLD', 'CALL']
+ok
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'RAISE:4:6']
+2
 
+['CHECK', 'BET:2:12']
 4
 
-4
+['CHECK', 'BET:2:12']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'BET:2:108']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'RAISE:4:6']
+2
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:12']
 4
 
-4
+['CHECK', 'BET:2:36']
+2
 
-4
+['CALL', 'FOLD', 'RAISE:4:6']
+2
 
-4
+['CHECK', 'BET:2:4']
+2
 
-4
+['CHECK', 'BET:2:4']
+2
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['CHECK', 'BET:2:36']
+2
 
-4
+['CHECK', 'BET:2:36']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['FOLD', 'CALL', 'RAISE:8:16']
 4
 
+['FOLD', 'CALL', 'RAISE:72:144']
 4
 
+['FOLD', 'CALL']
+ok
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
-4
+['CHECK', 'BET:2:36']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['FOLD', 'CALL', 'RAISE:8:16']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['FOLD', 'CALL', 'RAISE:216:346']
+2
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
-4
+['CHECK', 'BET:2:36']
+2
 
-4
+['CALL', 'FOLD', 'RAISE:4:6']
+2
 
-4
+['FOLD', 'CALL', 'RAISE:8:16']
+2
 
-4
+['FOLD', 'CALL', 'RAISE:24:48']
+2
 
+['FOLD', 'CALL', 'RAISE:72:144']
 4
 
-4
+['CHECK', 'RAISE:4:6']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
-4
+['CHECK', 'BET:2:36']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
-4
+['CHECK', 'BET:2:4']
+2
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
-4
+['CHECK', 'BET:2:36']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'BET:2:108']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['FOLD', 'CALL', 'RAISE:252:382']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['CHECK', 'BET:2:36']
+2
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'BET:2:108']
 4
 
-4
+['CHECK', 'RAISE:4:6']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'RAISE:4:6']
+2
 
+['CHECK', 'BET:2:12']
 4
 
+['FOLD', 'CALL', 'RAISE:24:48']
 4
 
+['CHECK', 'BET:2:108']
 4
 
-4
+['CHECK', 'BET:2:238']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
-4
+['CHECK', 'BET:2:4']
+2
 
+['CHECK', 'BET:2:12']
 4
 
+['FOLD', 'CALL', 'RAISE:24:48']
 4
 
-4
+['CHECK', 'RAISE:4:6']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
+['CHECK', 'BET:2:12']
 4
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['CALL', 'FOLD', 'RAISE:4:6']
+2
 
+['FOLD', 'CALL', 'RAISE:8:16']
 4
 
+['FOLD', 'CALL', 'RAISE:24:48']
 4
 
+['FOLD', 'CALL', 'RAISE:216:346']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['CHECK', 'BET:2:36']
+2
 
-4
+['CHECK', 'BET:2:36']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
-4
+['CHECK', 'BET:2:12']
+2
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['CHECK', 'BET:2:36']
+2
 
+['CHECK', 'BET:2:36']
 4
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'BET:2:108']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
-4
+['CHECK', 'BET:2:12']
+2
 
+['CHECK', 'BET:2:36']
 4
 
+['FOLD', 'CALL', 'RAISE:72:144']
 4
 
-4
+['CHECK', 'BET:2:238']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'RAISE:4:6']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
-4
+['CHECK', 'BET:2:36']
+2
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
-4
+['CHECK', 'BET:2:36']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
-4
+['CHECK', 'BET:2:36']
+2
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'BET:2:108']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
-4
+['CHECK', 'BET:2:4']
+2
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'BET:2:108']
 4
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'BET:2:108']
 4
 
-4
+['CHECK', 'RAISE:4:6']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['CALL', 'FOLD', 'RAISE:4:6']
+2
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'BET:2:108']
 4
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'BET:2:108']
 4
 
-4
+['CHECK', 'RAISE:4:6']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
+['CHECK', 'BET:2:12']
 4
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'BET:2:108']
+2
 
-4
+['CHECK', 'RAISE:4:6']
+2
 
-4
+['CHECK', 'BET:2:4']
+2
 
-4
+['CHECK', 'BET:2:4']
+2
 
-4
+['CHECK', 'BET:2:4']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'RAISE:4:6']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['FOLD', 'CALL', 'RAISE:24:48']
+2
 
+['CHECK', 'BET:2:36']
 4
 
+['FOLD', 'CALL', 'RAISE:72:144']
 4
 
-4
+['CHECK', 'BET:2:238']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['FOLD', 'CALL', 'RAISE:8:16']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['CHECK', 'BET:2:36']
+2
 
-4
+['CHECK', 'BET:2:36']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['FOLD', 'CALL', 'RAISE:72:144']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'BET:2:108']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'RAISE:4:6']
+2
 
+['CHECK', 'BET:2:12']
 4
 
+['FOLD', 'CALL', 'RAISE:24:48']
 4
 
+['CHECK', 'BET:2:108']
 4
 
-4
+['CHECK', 'BET:2:238']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
-4
+['CHECK', 'BET:2:36']
+2
 
-4
+['CHECK', 'RAISE:4:6']
+2
 
-4
+['CHECK', 'BET:2:4']
+2
 
-4
+['FOLD', 'CALL', 'RAISE:8:16']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['FOLD', 'CALL', 'RAISE:24:48']
+2
 
-4
+['CHECK', 'BET:2:36']
+2
 
-4
+['FOLD', 'CALL', 'RAISE:72:144']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['FOLD', 'CALL', 'RAISE:24:48']
 4
 
+['FOLD', 'CALL', 'RAISE:264:394']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'BET:2:108']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['FOLD', 'CALL', 'RAISE:8:16']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['FOLD', 'CALL', 'RAISE:216:346']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
-4
+['CHECK', 'BET:2:12']
+2
 
+['CHECK', 'BET:2:36']
 4
 
+['FOLD', 'CALL', 'RAISE:72:144']
 4
 
-4
+['FOLD', 'CALL']
+ok
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['FOLD', 'CALL', 'RAISE:24:48']
 4
 
+['FOLD', 'CALL', 'RAISE:264:394']
 4
 
-4
+['CHECK', 'RAISE:4:6']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
-4
+['CHECK', 'BET:2:12']
+2
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'RAISE:4:6']
+2
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'BET:2:108']
 4
 
-4
+['CHECK', 'RAISE:4:6']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['FOLD', 'CALL', 'RAISE:24:48']
 4
 
-4
+['FOLD', 'CALL', 'RAISE:216:346']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'BET:2:108']
 4
 
-4
+['FOLD', 'CALL']
+ok
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'RAISE:4:6']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['FOLD', 'CALL', 'RAISE:72:144']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'BET:2:108']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['FOLD', 'CALL', 'RAISE:72:144']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'BET:2:108']
 4
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['FOLD', 'CALL', 'RAISE:216:346']
+2
 
+['CHECK', 'RAISE:4:6']
 4
 
-4
+['CHECK', 'BET:2:4']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['FOLD', 'CALL', 'RAISE:24:48']
 4
 
+['FOLD', 'CALL', 'RAISE:216:346']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'BET:2:108']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['FOLD', 'CALL', 'RAISE:72:144']
 4
 
-4
+['CHECK', 'RAISE:4:6']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['FOLD', 'CALL', 'RAISE:8:16']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['FOLD', 'CALL', 'RAISE:216:346']
 4
 
-4
+['CHECK', 'RAISE:4:6']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
-4
+['CHECK', 'BET:2:4']
+2
 
+['CHECK', 'BET:2:12']
 4
 
+['FOLD', 'CALL', 'RAISE:24:48']
 4
 
-4
+['CHECK', 'RAISE:4:6']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['FOLD', 'CALL', 'RAISE:24:48']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
-4
+['CHECK', 'BET:2:4']
+2
 
+['FOLD', 'CALL', 'RAISE:24:48']
 4
 
+['FOLD', 'CALL', 'RAISE:72:144']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'BET:2:108']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['FOLD', 'CALL', 'RAISE:24:48']
 4
 
+['FOLD', 'CALL', 'RAISE:216:346']
 4
 
-4
+['CHECK', 'RAISE:4:6']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'BET:2:108']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['FOLD', 'CALL', 'RAISE:8:16']
 4
 
+['FOLD', 'CALL', 'RAISE:72:144']
 4
 
+['FOLD', 'CALL']
+ok
 4
 
-4
+['CHECK', 'RAISE:4:6']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
+['CHECK', 'BET:2:12']
 4
 
-4
+['CHECK', 'BET:2:12']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['FOLD', 'CALL', 'RAISE:24:48']
 4
 
+['FOLD', 'CALL', 'RAISE:216:346']
 4
 
-4
+['CHECK', 'RAISE:4:6']
+2
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['FOLD', 'CALL', 'RAISE:84:156']
 4
 
-4
+['FOLD', 'CALL']
+ok
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['FOLD', 'CALL', 'RAISE:24:48']
 4
 
+['FOLD', 'CALL', 'RAISE:216:346']
 4
 
-4
+['CHECK', 'RAISE:4:6']
+2
 
+['CHECK', 'BET:2:12']
 4
 
+['FOLD', 'CALL', 'RAISE:24:48']
 4
 
+['CHECK', 'BET:2:108']
 4
 
+['FOLD', 'CALL']
+ok
 4
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['FOLD', 'CALL', 'RAISE:24:48']
 4
 
+['CHECK', 'BET:2:108']
 4
 
+['FOLD', 'CALL']
+ok
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['CHECK', 'BET:2:36']
+2
 
+['CHECK', 'BET:2:36']
 4
 
+['FOLD', 'CALL', 'RAISE:72:144']
 4
 
-4
+['FOLD', 'CALL']
+ok
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['FOLD', 'CALL', 'RAISE:8:16']
 4
 
+['FOLD', 'CALL', 'RAISE:72:144']
 4
 
+['FOLD', 'CALL']
+ok
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'BET:2:108']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'BET:2:108']
 4
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['FOLD', 'CALL', 'RAISE:72:144']
 4
 
+['FOLD', 'CALL']
+ok
 4
 
-4
+['CHECK', 'RAISE:4:6']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
+['CHECK', 'BET:2:12']
 4
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'BET:2:108']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'BET:2:108']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
-4
+['CHECK', 'BET:2:36']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['FOLD', 'CALL', 'RAISE:8:16']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'BET:2:108']
 4
 
-4
+['CHECK', 'RAISE:4:6']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['CHECK', 'BET:2:36']
+2
 
-4
+['CHECK', 'BET:2:36']
+2
 
-4
+['FOLD', 'CALL', 'RAISE:72:144']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['FOLD', 'CALL', 'RAISE:72:144']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'BET:2:108']
 4
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'BET:2:108']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'BET:2:108']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'RAISE:4:6']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['FOLD', 'CALL', 'RAISE:8:16']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['FOLD', 'CALL', 'RAISE:216:346']
 4
 
-4
+['CHECK', 'RAISE:4:6']
+2
 
+['CHECK', 'BET:2:12']
 4
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['CHECK', 'BET:2:36']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['FOLD', 'CALL', 'RAISE:72:144']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'BET:2:108']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['FOLD', 'CALL', 'RAISE:72:144']
 4
 
+['FOLD', 'CALL']
+ok
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['CHECK', 'BET:2:36']
+2
 
+['CHECK', 'BET:2:36']
 4
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'BET:2:108']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
-4
+['CHECK', 'BET:2:4']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'BET:2:108']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
-4
+['CHECK', 'BET:2:36']
+2
 
-4
+['CHECK', 'RAISE:4:6']
+2
 
-4
+['CHECK', 'BET:2:4']
+2
 
-4
+['FOLD', 'CALL', 'RAISE:8:16']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
+['CHECK', 'BET:2:12']
 4
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'BET:2:108']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'BET:2:108']
 4
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['FOLD', 'CALL', 'RAISE:72:144']
 4
 
+['FOLD', 'CALL']
+ok
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'BET:2:108']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'BET:2:108']
 4
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'BET:2:108']
+2
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'BET:2:108']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'BET:2:108']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
-4
+['CHECK', 'BET:2:36']
+2
 
+['CHECK', 'RAISE:4:6']
 4
 
-4
+['CHECK', 'BET:2:4']
+2
 
-4
+['FOLD', 'CALL', 'RAISE:28:52']
+2
 
-4
+['CHECK', 'BET:2:36']
+2
 
-4
+['FOLD', 'CALL', 'RAISE:72:144']
+2
 
+['CHECK', 'BET:2:108']
 4
 
-4
+['FOLD', 'CALL', 'RAISE:216:346']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
-4
+['CHECK', 'BET:2:12']
+2
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'RAISE:4:6']
+2
 
+['CHECK', 'BET:2:12']
 4
 
-4
+['CHECK', 'BET:2:12']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'RAISE:4:6']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
-4
+['CHECK', 'BET:2:12']
+2
 
+['CHECK', 'BET:2:36']
+2
+
+['CHECK', 'BET:2:36']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['FOLD', 'CALL', 'RAISE:8:16']
+4
+
+['FOLD', 'CALL', 'RAISE:72:144']
+4
+
+['FOLD', 'CALL']
+ok
+4
+
+['CHECK', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:12']
+4
+
+['FOLD', 'CALL', 'RAISE:24:48']
+4
+
+['CHECK', 'BET:2:108']
+4
+
+['FOLD', 'CALL']
+ok
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'BET:2:108']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'BET:2:108']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['FOLD', 'CALL', 'RAISE:24:48']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+2
+
+['FOLD', 'CALL', 'RAISE:8:16']
+4
+
+['FOLD', 'CALL', 'RAISE:24:48']
+4
+
+['FOLD', 'CALL', 'RAISE:264:394']
+2
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+2
+
+['FOLD', 'CALL', 'RAISE:8:16']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'BET:2:108']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+2
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:36']
+2
+
+['CHECK', 'BET:2:36']
+4
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['FOLD', 'CALL', 'RAISE:216:346']
+4
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'BET:2:108']
+4
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'BET:2:108']
+4
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'BET:2:108']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['FOLD', 'CALL', 'RAISE:24:48']
+4
+
+['FOLD', 'CALL', 'RAISE:264:394']
+2
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:4']
+2
+
+['CHECK', 'BET:2:4']
+2
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'BET:2:108']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+2
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:4']
+2
+
+['CHECK', 'BET:2:4']
+2
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:36']
+4
+
+['FOLD', 'CALL', 'RAISE:72:144']
+4
+
+['CHECK', 'BET:2:238']
+4
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'BET:2:108']
+4
+
+['CHECK', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['FOLD', 'CALL', 'RAISE:24:48']
+2
+
+['CHECK', 'BET:2:36']
+2
+
+['CHECK', 'BET:2:36']
+4
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'BET:2:108']
+4
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'BET:2:108']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['FOLD', 'CALL', 'RAISE:8:16']
+4
+
+['FOLD', 'CALL', 'RAISE:72:144']
+4
+
+['FOLD', 'CALL']
+ok
+4
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'BET:2:108']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+4
+
+['FOLD', 'CALL', 'RAISE:24:48']
+4
+
+['CHECK', 'BET:2:108']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['FOLD', 'CALL', 'RAISE:24:48']
+4
+
+['FOLD', 'CALL', 'RAISE:216:346']
+2
+
+['CHECK', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['FOLD', 'CALL', 'RAISE:24:48']
+4
+
+['FOLD', 'CALL', 'RAISE:216:346']
+4
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['FOLD', 'CALL', 'RAISE:84:156']
+4
+
+['FOLD', 'CALL']
+ok
+4
+
+['CHECK', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['FOLD', 'CALL', 'RAISE:8:16']
+4
+
+['FOLD', 'CALL', 'RAISE:72:144']
+4
+
+['FOLD', 'CALL']
+ok
+4
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'BET:2:108']
+4
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'BET:2:108']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['FOLD', 'CALL', 'RAISE:8:16']
+4
+
+['FOLD', 'CALL', 'RAISE:72:144']
+4
+
+['FOLD', 'CALL']
+ok
+4
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'BET:2:108']
+4
+
+['FOLD', 'CALL']
+ok
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+2
+
+['CHECK', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:4']
+2
+
+['CHECK', 'BET:2:4']
+2
+
+['CHECK', 'BET:2:4']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['FOLD', 'CALL', 'RAISE:8:16']
+4
+
+['FOLD', 'CALL', 'RAISE:88:160']
+4
+
+['FOLD', 'CALL']
+ok
+4
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'BET:2:108']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+2
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+2
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['FOLD', 'CALL', 'RAISE:24:48']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:12']
+4
+
+['FOLD', 'CALL', 'RAISE:24:48']
+4
+
+['CHECK', 'BET:2:108']
+4
+
+['CHECK', 'BET:2:238']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['FOLD', 'CALL', 'RAISE:8:16']
+4
+
+['FOLD', 'CALL', 'RAISE:72:144']
+4
+
+['FOLD', 'CALL']
+ok
+4
+
+['CHECK', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+4
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'BET:2:108']
+2
+
+['CHECK', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:4']
+2
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:4']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:4']
+2
+
+['CHECK', 'BET:2:4']
+2
+
+['CHECK', 'BET:2:4']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+2
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['FOLD', 'CALL', 'RAISE:72:144']
+2
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+2
+
+['CHECK', 'BET:2:12']
+4
+
+['FOLD', 'CALL', 'RAISE:24:48']
+4
+
+['CHECK', 'BET:2:108']
+4
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['FOLD', 'CALL', 'RAISE:8:16']
+4
+
+['FOLD', 'CALL', 'RAISE:72:144']
+4
+
+['FOLD', 'CALL']
+ok
+4
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['FOLD', 'CALL', 'RAISE:24:48']
+4
+
+['CHECK', 'BET:2:108']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['FOLD', 'CALL', 'RAISE:24:48']
+4
+
+['FOLD', 'CALL', 'RAISE:216:346']
+4
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'BET:2:108']
+4
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'BET:2:108']
+4
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'BET:2:108']
+4
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'BET:2:108']
+4
+
+['CALL', 'FOLD', 'RAISE:4:6']
+2
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:36']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:4']
+2
+
+['CHECK', 'BET:2:4']
+2
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+4
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'BET:2:108']
+2
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['FOLD', 'CALL', 'RAISE:8:16']
+4
+
+['FOLD', 'CALL', 'RAISE:88:160']
+4
+
+['FOLD', 'CALL']
+ok
+4
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'BET:2:108']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['FOLD', 'CALL', 'RAISE:24:48']
+2
+
+['CHECK', 'BET:2:36']
+4
+
+['FOLD', 'CALL', 'RAISE:72:144']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:12']
+4
+
+['FOLD', 'CALL', 'RAISE:24:48']
+4
+
+['CHECK', 'BET:2:108']
+4
+
+['CHECK', 'BET:2:238']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['FOLD', 'CALL', 'RAISE:24:48']
+4
+
+['CHECK', 'BET:2:108']
+4
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['FOLD', 'CALL', 'RAISE:84:156']
+4
+
+['FOLD', 'CALL']
+ok
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['FOLD', 'CALL', 'RAISE:8:16']
+4
+
+['FOLD', 'CALL', 'RAISE:72:144']
+4
+
+['FOLD', 'CALL']
+ok
+4
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'BET:2:108']
+4
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['FOLD', 'CALL', 'RAISE:24:48']
+4
+
+['CHECK', 'BET:2:108']
+4
+
+['CHECK', 'RAISE:4:6']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['FOLD', 'CALL', 'RAISE:24:48']
+4
+
+['FOLD', 'CALL', 'RAISE:216:346']
+2
+
+['CHECK', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:4']
+4
+
+['FOLD', 'CALL', 'RAISE:8:16']
+2
+
+['CHECK', 'BET:2:36']
+4
+
+['FOLD', 'CALL', 'RAISE:72:144']
+4
+
+['FOLD', 'CALL']
+ok
+4
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'BET:2:108']
+4
+
+['CHECK', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+2
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:12']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:36']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['FOLD', 'CALL', 'RAISE:8:16']
+4
+
+['FOLD', 'CALL', 'RAISE:72:144']
+4
+
+['FOLD', 'CALL']
+ok
+4
+
+['CHECK', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'BET:2:108']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['FOLD', 'CALL', 'RAISE:24:48']
+4
+
+['FOLD', 'CALL', 'RAISE:216:346']
+4
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:36']
+2
+
+['CHECK', 'BET:2:36']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'RAISE:4:6']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['FOLD', 'CALL', 'RAISE:8:16']
+4
+
+['FOLD', 'CALL', 'RAISE:72:144']
+4
+
+['CHECK', 'BET:2:238']
+2
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+2
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'BET:2:108']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'BET:2:108']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['FOLD', 'CALL', 'RAISE:24:48']
+4
+
+['FOLD', 'CALL', 'RAISE:216:346']
+4
+
+['CHECK', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+2
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'RAISE:4:6']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'RAISE:4:6']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'BET:2:108']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['FOLD', 'CALL', 'RAISE:72:144']
+4
+
+['CHECK', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['FOLD', 'CALL', 'RAISE:24:48']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'BET:2:108']
+4
+
+['FOLD', 'CALL']
+ok
+4
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'BET:2:108']
+4
+
+['CHECK', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['FOLD', 'CALL', 'RAISE:24:48']
+2
+
+['CHECK', 'BET:2:36']
+2
+
+['FOLD', 'CALL', 'RAISE:72:144']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['FOLD', 'CALL', 'RAISE:72:144']
+4
+
+['FOLD', 'CALL']
+ok
+2
+
+['CHECK', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:4']
+2
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:4']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+2
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'BET:2:108']
+2
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['FOLD', 'CALL', 'RAISE:8:16']
+4
+
+['FOLD', 'CALL', 'RAISE:72:144']
+4
+
+['FOLD', 'CALL']
+ok
+4
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'BET:2:108']
+2
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+2
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:12']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'BET:2:108']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['FOLD', 'CALL', 'RAISE:8:16']
+4
+
+['FOLD', 'CALL', 'RAISE:72:144']
+4
+
+['FOLD', 'CALL']
+ok
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'BET:2:108']
+4
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'BET:2:108']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'BET:2:108']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'BET:2:108']
+4
+
+['FOLD', 'CALL']
+ok
+4
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'BET:2:108']
+4
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'BET:2:108']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'BET:2:108']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['FOLD', 'CALL', 'RAISE:72:144']
+4
+
+['CHECK', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['FOLD', 'CALL', 'RAISE:24:48']
+2
+
+['CHECK', 'BET:2:36']
+2
+
+['FOLD', 'CALL', 'RAISE:72:144']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'BET:2:108']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'BET:2:108']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['FOLD', 'CALL', 'RAISE:72:144']
+4
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:36']
+2
+
+['CHECK', 'BET:2:36']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['FOLD', 'CALL', 'RAISE:72:144']
+4
+
+['FOLD', 'CALL']
+ok
+4
+
+['CHECK', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:12']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['FOLD', 'CALL', 'RAISE:24:48']
+4
+
+['FOLD', 'CALL', 'RAISE:264:394']
+4
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'BET:2:108']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['FOLD', 'CALL', 'RAISE:8:16']
+4
+
+['FOLD', 'CALL', 'RAISE:72:144']
+4
+
+['FOLD', 'CALL']
+ok
+4
+
+['CHECK', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+4
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['FOLD', 'CALL', 'RAISE:72:144']
+4
+
+['FOLD', 'CALL']
+ok
+4
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:36']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['FOLD', 'CALL', 'RAISE:72:144']
+4
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:36']
+2
+
+['CHECK', 'BET:2:36']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'BET:2:108']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['FOLD', 'CALL', 'RAISE:24:48']
+2
+
+['CHECK', 'BET:2:36']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['FOLD', 'CALL', 'RAISE:72:144']
+2
+
+['CHECK', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:4']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['FOLD', 'CALL', 'RAISE:24:48']
+4
+
+['FOLD', 'CALL', 'RAISE:264:394']
+4
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'BET:2:108']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['FOLD', 'CALL', 'RAISE:10:18']
+4
+
+['FOLD', 'CALL', 'RAISE:72:144']
+4
+
+['FOLD', 'CALL']
+ok
+4
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'BET:2:108']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+4
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'BET:2:108']
+4
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'BET:2:108']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'BET:2:108']
+4
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['FOLD', 'CALL', 'RAISE:72:144']
+4
+
+['CHECK', 'BET:2:238']
+2
+
+['CHECK', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:4']
+2
+
+['CHECK', 'BET:2:4']
+2
+
+['CHECK', 'BET:2:4']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['FOLD', 'CALL', 'RAISE:8:16']
+4
+
+['FOLD', 'CALL', 'RAISE:72:144']
+4
+
+['CHECK', 'BET:2:238']
+4
+
+['CHECK', 'RAISE:4:6']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['FOLD', 'CALL', 'RAISE:8:16']
+4
+
+['FOLD', 'CALL', 'RAISE:72:144']
+4
+
+['FOLD', 'CALL']
+ok
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'BET:2:108']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['FOLD', 'CALL', 'RAISE:8:16']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'BET:2:108']
+4
+
+['CHECK', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+4
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['FOLD', 'CALL', 'RAISE:24:48']
+4
+
+['FOLD', 'CALL', 'RAISE:216:346']
+2
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'BET:2:108']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'BET:2:108']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['FOLD', 'CALL', 'RAISE:72:144']
+4
+
+['FOLD', 'CALL']
+ok
+2
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:12']
+4
+
+['FOLD', 'CALL', 'RAISE:24:48']
+4
+
+['CHECK', 'BET:2:108']
+4
+
+['CHECK', 'BET:2:238']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+2
+
+['CHECK', 'BET:2:12']
+4
+
+['FOLD', 'CALL', 'RAISE:24:48']
+4
+
+['CHECK', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['FOLD', 'CALL', 'RAISE:72:144']
+4
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'BET:2:108']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['FOLD', 'CALL', 'RAISE:24:48']
+2
+
+['CHECK', 'BET:2:36']
+4
+
+['FOLD', 'CALL', 'RAISE:72:144']
+4
+
+['CHECK', 'BET:2:238']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['FOLD', 'CALL', 'RAISE:24:48']
+2
+
+['CHECK', 'BET:2:36']
+4
+
+['FOLD', 'CALL', 'RAISE:72:144']
+4
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'BET:2:108']
+2
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:36']
+4
+
+['FOLD', 'CALL', 'RAISE:72:144']
+4
+
+['CHECK', 'BET:2:238']
+4
+
+['CALL', 'FOLD', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['FOLD', 'CALL', 'RAISE:72:144']
+4
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'BET:2:108']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['FOLD', 'CALL', 'RAISE:24:48']
+4
+
+['FOLD', 'CALL', 'RAISE:216:346']
+4
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:36']
+2
+
+['CHECK', 'BET:2:36']
+4
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'BET:2:108']
+4
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'BET:2:108']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['FOLD', 'CALL', 'RAISE:8:16']
+4
+
+['FOLD', 'CALL', 'RAISE:72:144']
+4
+
+['FOLD', 'CALL']
+ok
+4
+
+['CHECK', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['FOLD', 'CALL', 'RAISE:24:48']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['FOLD', 'CALL', 'RAISE:24:48']
+4
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'BET:2:108']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'BET:2:108']
+4
+
+['FOLD', 'CALL']
+ok
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'BET:2:108']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['FOLD', 'CALL', 'RAISE:8:16']
+4
+
+['FOLD', 'CALL', 'RAISE:72:144']
+4
+
+['FOLD', 'CALL']
+ok
+4
+
+['CHECK', 'RAISE:4:6']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['FOLD', 'CALL', 'RAISE:8:16']
+4
+
+['FOLD', 'CALL', 'RAISE:72:144']
+4
+
+['FOLD', 'CALL']
+ok
+4
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'BET:2:108']
+4
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'BET:2:108']
+4
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'BET:2:108']
+4
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['FOLD', 'CALL', 'RAISE:24:48']
+4
+
+['FOLD', 'CALL', 'RAISE:216:346']
+2
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+2
+
+['FOLD', 'CALL', 'RAISE:28:52']
+2
+
+['CHECK', 'BET:2:36']
+4
+
+['FOLD', 'CALL', 'RAISE:72:144']
+4
+
+['CHECK', 'BET:2:238']
+4
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'BET:2:108']
+4
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'BET:2:108']
+4
+
+['FOLD', 'CALL']
+ok
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['FOLD', 'CALL', 'RAISE:24:48']
+4
+
+['FOLD', 'CALL', 'RAISE:216:346']
+4
+
+['CHECK', 'RAISE:4:6']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+4
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'BET:2:108']
+2
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+2
+
+['FOLD', 'CALL', 'RAISE:72:144']
+4
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'BET:2:108']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['FOLD', 'CALL', 'RAISE:24:48']
+4
+
+['FOLD', 'CALL', 'RAISE:216:346']
+4
+
+['CHECK', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['FOLD', 'CALL', 'RAISE:8:16']
+4
+
+['FOLD', 'CALL', 'RAISE:72:144']
+4
+
+['FOLD', 'CALL']
+ok
+4
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'BET:2:108']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['FOLD', 'CALL', 'RAISE:8:16']
+4
+
+['FOLD', 'CALL', 'RAISE:72:144']
+4
+
+['FOLD', 'CALL']
+ok
+4
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'BET:2:108']
+4
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'BET:2:108']
+2
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['FOLD', 'CALL', 'RAISE:28:52']
+4
+
+['CHECK', 'BET:2:108']
+4
+
+['FOLD', 'CALL']
+ok
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['FOLD', 'CALL', 'RAISE:72:144']
+2
+
+['CHECK', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:4']
+2
+
+['FOLD', 'CALL', 'RAISE:8:16']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['FOLD', 'CALL', 'RAISE:24:48']
+2
+
+['CHECK', 'BET:2:36']
+2
+
+['FOLD', 'CALL', 'RAISE:72:144']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+2
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['FOLD', 'CALL', 'RAISE:24:48']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['FOLD', 'CALL', 'RAISE:252:382']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['FOLD', 'CALL', 'RAISE:8:16']
+4
+
+['FOLD', 'CALL', 'RAISE:88:160']
+4
+
+['FOLD', 'CALL']
+ok
+4
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'BET:2:108']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'BET:2:108']
+4
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'BET:2:108']
+4
+
+['CHECK', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['FOLD', 'CALL', 'RAISE:24:48']
+2
+
+['CHECK', 'BET:2:36']
+4
+
+['FOLD', 'CALL', 'RAISE:72:144']
+4
+
+['CHECK', 'BET:2:238']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['FOLD', 'CALL', 'RAISE:24:48']
+2
+
+['CHECK', 'BET:2:36']
+2
+
+['FOLD', 'CALL', 'RAISE:72:144']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['FOLD', 'CALL', 'RAISE:8:16']
+4
+
+['FOLD', 'CALL', 'RAISE:72:144']
+4
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'BET:2:108']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+2
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'BET:2:108']
+4
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['FOLD', 'CALL', 'RAISE:72:144']
+4
+
+['FOLD', 'CALL']
+ok
+4
+
+['CHECK', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:36']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['FOLD', 'CALL', 'RAISE:216:346']
+4
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:36']
+2
+
+['CHECK', 'BET:2:36']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['FOLD', 'CALL', 'RAISE:72:144']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'BET:2:108']
 4
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'BET:2:108']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:36']
+4
+
+['FOLD', 'CALL', 'RAISE:72:144']
+4
+
+['FOLD', 'CALL']
+ok
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:36']
+2
+
+['CHECK', 'BET:2:36']
+4
+
+['FOLD', 'CALL', 'RAISE:72:144']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+4
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'BET:2:108']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'BET:2:108']
 4
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'BET:2:108']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'BET:2:108']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:4']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['FOLD', 'CALL', 'RAISE:72:144']
+4
+
+['CHECK', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'BET:2:108']
+4
+
+['CALL', 'FOLD', 'RAISE:4:6']
+4
+
+['CHECK', 'BET:2:12']
+4
+
+['CHECK', 'BET:2:36']
+4
+
+['CHECK', 'BET:2:108']
 4
+
+['CHECK', 'RAISE:4:6']
+2
 
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['FOLD', 'CALL', 'RAISE:24:48']
 4
 
+['FOLD', 'CALL', 'RAISE:216:346']
 4
+
+['CHECK', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['FOLD', 'CALL', 'RAISE:24:48']
+2
+
+['CHECK', 'BET:2:36']
+2
+
+['CHECK', 'BET:2:36']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['FOLD', 'CALL', 'RAISE:8:16']
 4
 
+['FOLD', 'CALL', 'RAISE:72:144']
 4
 
+['FOLD', 'CALL']
+ok
+2
+
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
+
+['CHECK', 'RAISE:4:6']
+2
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:36']
 4
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['FOLD', 'CALL', 'RAISE:216:346']
 4
+
+['CHECK', 'RAISE:4:6']
+2
 
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
+
+['CHECK', 'BET:2:108']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['FOLD', 'CALL', 'RAISE:24:48']
 4
 
+['CHECK', 'BET:2:36']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['FOLD', 'CALL', 'RAISE:8:16']
 4
 
+['FOLD', 'CALL', 'RAISE:72:144']
 4
 
+['FOLD', 'CALL']
+ok
 4
+
+['CHECK', 'RAISE:4:6']
+2
 
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['FOLD', 'CALL', 'RAISE:24:48']
 4
 
+['FOLD', 'CALL', 'RAISE:216:346']
 4
+
+['CHECK', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
 
+['CHECK', 'BET:2:12']
+2
+
+['FOLD', 'CALL', 'RAISE:24:48']
 4
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['FOLD', 'CALL', 'RAISE:216:346']
 4
+
+['CHECK', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
 
+['CHECK', 'BET:2:12']
 4
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['FOLD', 'CALL', 'RAISE:216:346']
 4
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['FOLD', 'CALL', 'RAISE:72:144']
 4
 
+['FOLD', 'CALL']
+ok
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['FOLD', 'CALL', 'RAISE:72:144']
 4
 
+['FOLD', 'CALL']
+ok
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
+
+['CHECK', 'BET:2:108']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'BET:2:108']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'BET:2:108']
 4
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['FOLD', 'CALL', 'RAISE:216:346']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
+
+['CHECK', 'BET:2:108']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'RAISE:4:6']
 4
+
+['CHECK', 'BET:2:12']
+2
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'BET:2:36']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
+
+['CHECK', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['FOLD', 'CALL', 'RAISE:24:48']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['FOLD', 'CALL', 'RAISE:8:16']
 4
 
+['FOLD', 'CALL', 'RAISE:72:144']
 4
 
+['FOLD', 'CALL']
+ok
 4
 
+['CHECK', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['FOLD', 'CALL', 'RAISE:24:48']
+2
+
+['CHECK', 'BET:2:36']
+2
+
+['FOLD', 'CALL', 'RAISE:72:144']
 4
 
+['CHECK', 'BET:2:108']
 4
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['FOLD', 'CALL', 'RAISE:72:144']
 4
 
+['FOLD', 'CALL']
+ok
 4
+
+['CHECK', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:4']
+2
+
+['CHECK', 'BET:2:4']
+2
+
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'RAISE:4:6']
 4
+
+['CHECK', 'BET:2:12']
+2
 
+['CHECK', 'BET:2:36']
+2
+
+['CHECK', 'BET:2:36']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['FOLD', 'CALL', 'RAISE:24:48']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
+
+['CHECK', 'BET:2:108']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'BET:2:108']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['FOLD', 'CALL', 'RAISE:8:16']
 4
 
+['FOLD', 'CALL', 'RAISE:88:160']
 4
 
+['FOLD', 'CALL']
+ok
 4
+
+['CHECK', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
 
+['CHECK', 'BET:2:12']
 4
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
+
+['CHECK', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:36']
+2
+
+['CHECK', 'BET:2:36']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['FOLD', 'CALL', 'RAISE:24:48']
 4
 
+['FOLD', 'CALL', 'RAISE:216:346']
 4
 
+['CHECK', 'RAISE:4:6']
 4
+
+['CHECK', 'BET:2:12']
+2
 
+['CHECK', 'BET:2:36']
+2
+
+['CHECK', 'BET:2:36']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['FOLD', 'CALL', 'RAISE:24:48']
 4
 
+['FOLD', 'CALL', 'RAISE:216:346']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
 4
+
+['FOLD', 'CALL', 'RAISE:8:16']
+2
 
+['FOLD', 'CALL', 'RAISE:72:144']
 4
 
+['FOLD', 'CALL', 'RAISE:216:346']
 4
 
+['CHECK', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['FOLD', 'CALL', 'RAISE:24:48']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
+
+['CHECK', 'BET:2:36']
+2
+
+['CHECK', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:4']
+2
 
+['FOLD', 'CALL', 'RAISE:8:16']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['FOLD', 'CALL', 'RAISE:24:48']
+2
+
+['CHECK', 'BET:2:36']
+2
+
+['FOLD', 'CALL', 'RAISE:72:144']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['FOLD', 'CALL', 'RAISE:72:144']
 4
+
+['CHECK', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['FOLD', 'CALL', 'RAISE:24:48']
+2
 
+['CHECK', 'BET:2:36']
+2
+
+['FOLD', 'CALL', 'RAISE:72:144']
 4
 
+['CHECK', 'BET:2:108']
 4
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['FOLD', 'CALL', 'RAISE:24:48']
 4
 
+['FOLD', 'CALL', 'RAISE:216:346']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'BET:2:108']
 4
+
+['FOLD', 'CALL']
+ok
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['FOLD', 'CALL', 'RAISE:8:16']
 4
 
+['FOLD', 'CALL', 'RAISE:72:144']
 4
 
+['FOLD', 'CALL']
+ok
 4
+
+['CHECK', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:12']
+2
 
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['FOLD', 'CALL', 'RAISE:24:48']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['FOLD', 'CALL', 'RAISE:8:16']
 4
 
+['FOLD', 'CALL', 'RAISE:72:144']
 4
 
+['FOLD', 'CALL']
+ok
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['FOLD', 'CALL', 'RAISE:84:156']
 4
+
+['FOLD', 'CALL']
+ok
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['FOLD', 'CALL', 'RAISE:24:48']
 4
 
+['CHECK', 'BET:2:108']
 4
 
+['FOLD', 'CALL']
+ok
+2
+
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
+
+['FOLD', 'CALL', 'RAISE:252:382']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
+2
+
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
+
+['FOLD', 'CALL', 'RAISE:252:382']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
+2
+
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
+
+['CHECK', 'BET:2:36']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'BET:2:108']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['FOLD', 'CALL', 'RAISE:8:16']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'BET:2:108']
 4
+
+['CHECK', 'RAISE:4:6']
+2
 
+['CHECK', 'BET:2:12']
 4
 
+['FOLD', 'CALL', 'RAISE:24:48']
 4
 
+['CHECK', 'BET:2:108']
 4
 
+['FOLD', 'CALL']
+ok
 4
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'BET:2:108']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['FOLD', 'CALL', 'RAISE:24:48']
 4
 
+['FOLD', 'CALL', 'RAISE:264:394']
+2
+
+['CHECK', 'RAISE:4:6']
 4
+
+['CHECK', 'BET:2:4']
+2
 
+['CHECK', 'BET:2:12']
 4
 
+['FOLD', 'CALL', 'RAISE:24:48']
 4
 
+['CHECK', 'BET:2:108']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['FOLD', 'CALL', 'RAISE:8:16']
 4
 
+['FOLD', 'CALL', 'RAISE:72:144']
 4
 
+['FOLD', 'CALL']
+ok
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'BET:2:108']
 4
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['FOLD', 'CALL', 'RAISE:72:144']
 4
 
+['FOLD', 'CALL']
+ok
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
+
+['CHECK', 'BET:2:108']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
+
+['FOLD', 'CALL', 'RAISE:252:382']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['FOLD', 'CALL', 'RAISE:72:144']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'BET:2:108']
 4
 
+['FOLD', 'CALL']
+ok
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
+
+['CHECK', 'BET:2:12']
+2
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'BET:2:108']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
+
+['CHECK', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
 
+['CHECK', 'BET:2:12']
+2
+
+['FOLD', 'CALL', 'RAISE:24:48']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
+2
+
+['CHECK', 'BET:2:12']
 4
 
+['FOLD', 'CALL', 'RAISE:24:48']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
+
+['CHECK', 'BET:2:108']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['FOLD', 'CALL', 'RAISE:24:48']
 4
 
+['CHECK', 'BET:2:36']
+2
+
+['CHECK', 'BET:2:108']
 4
+
+['FOLD', 'CALL', 'RAISE:216:346']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
 4
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['FOLD', 'CALL', 'RAISE:216:346']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'BET:2:108']
 4
+
+['FOLD', 'CALL']
+ok
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['FOLD', 'CALL', 'RAISE:8:16']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'BET:2:108']
 4
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'BET:2:108']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
+2
+
+['FOLD', 'CALL', 'RAISE:8:16']
+2
+
+['FOLD', 'CALL', 'RAISE:24:48']
 4
 
+['FOLD', 'CALL', 'RAISE:72:144']
 4
 
+['CHECK', 'RAISE:4:6']
 4
+
+['CHECK', 'BET:2:12']
+2
 
+['CHECK', 'BET:2:36']
+2
+
+['CHECK', 'BET:2:36']
 4
+
+['CALL', 'FOLD', 'RAISE:4:6']
+2
+
+['CHECK', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:4']
+2
 
+['FOLD', 'CALL', 'RAISE:8:16']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
+
+['CHECK', 'BET:2:36']
+2
 
+['CHECK', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:4']
+2
+
+['CHECK', 'BET:2:4']
+2
+
+['CHECK', 'BET:2:4']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['FOLD', 'CALL', 'RAISE:24:48']
+2
+
+['CHECK', 'BET:2:36']
 4
 
+['FOLD', 'CALL', 'RAISE:72:144']
 4
+
+['CHECK', 'BET:2:238']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['FOLD', 'CALL', 'RAISE:24:48']
+2
+
+['CHECK', 'BET:2:36']
 4
 
+['FOLD', 'CALL', 'RAISE:72:144']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
+
+['CHECK', 'BET:2:12']
+2
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:12']
 4
+
+['CHECK', 'BET:2:12']
+2
 
+['CHECK', 'BET:2:36']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
+
+['CHECK', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
 
+['CHECK', 'BET:2:12']
+2
+
+['FOLD', 'CALL', 'RAISE:24:48']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'BET:2:108']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
+
+['CHECK', 'BET:2:108']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:36']
+2
+
+['CHECK', 'BET:2:36']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
+
+['CHECK', 'RAISE:4:6']
+2
 
+['CHECK', 'BET:2:12']
+2
+
+['FOLD', 'CALL', 'RAISE:24:48']
+2
+
+['CHECK', 'BET:2:36']
+2
+
+['CHECK', 'BET:2:36']
 4
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'BET:2:108']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['FOLD', 'CALL', 'RAISE:216:346']
 4
+
+['CHECK', 'RAISE:4:6']
+2
 
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['FOLD', 'CALL', 'RAISE:72:144']
 4
 
+['FOLD', 'CALL']
+ok
 4
 
+['CHECK', 'RAISE:4:6']
 4
+
+['CHECK', 'BET:2:12']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['FOLD', 'CALL', 'RAISE:8:16']
 4
 
+['FOLD', 'CALL', 'RAISE:72:144']
 4
 
+['FOLD', 'CALL']
+ok
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'BET:2:108']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
+
+['CHECK', 'BET:2:108']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
+2
+
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
+
+['CHECK', 'BET:2:36']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:36']
 4
+
+['CHECK', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
 
+['FOLD', 'CALL', 'RAISE:24:48']
+2
+
+['CHECK', 'BET:2:36']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
 4
+
+['CHECK', 'BET:2:4']
+2
+
+['CHECK', 'BET:2:12']
+2
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'BET:2:108']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['FOLD', 'CALL', 'RAISE:8:16']
 4
+
+['FOLD', 'CALL', 'RAISE:88:160']
+2
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
+2
+
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['FOLD', 'CALL', 'RAISE:24:48']
 4
 
+['CHECK', 'BET:2:108']
 4
+
+['CHECK', 'RAISE:4:6']
+2
 
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
 4
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['FOLD', 'CALL', 'RAISE:24:48']
 4
 
+['FOLD', 'CALL', 'RAISE:216:346']
 4
+
+['CHECK', 'RAISE:4:6']
+2
+
+['CHECK', 'BET:2:12']
+2
+
+['CHECK', 'BET:2:12']
+2
 
-4
+['FOLD', 'CALL', 'RAISE:24:48']
+2
 
-4
+['CHECK', 'BET:2:36']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['FOLD', 'CALL', 'RAISE:8:16']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['FOLD', 'CALL', 'RAISE:216:346']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'BET:2:108']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['FOLD', 'CALL', 'RAISE:8:16']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['FOLD', 'CALL', 'RAISE:216:346']
+2
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['FOLD', 'CALL', 'RAISE:252:382']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
-4
+['CHECK', 'BET:2:36']
+2
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
-4
+['CHECK', 'BET:2:36']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['FOLD', 'CALL', 'RAISE:8:16']
 4
 
+['FOLD', 'CALL', 'RAISE:88:160']
 4
 
+['FOLD', 'CALL']
+ok
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'BET:2:108']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['FOLD', 'CALL', 'RAISE:8:16']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['FOLD', 'CALL', 'RAISE:252:382']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'BET:2:108']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'BET:2:108']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'BET:2:108']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'BET:2:108']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['FOLD', 'CALL', 'RAISE:8:16']
 4
 
+['FOLD', 'CALL', 'RAISE:72:144']
 4
 
+['FOLD', 'CALL']
+ok
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
-4
+['CHECK', 'BET:2:36']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['FOLD', 'CALL', 'RAISE:8:16']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['FOLD', 'CALL', 'RAISE:216:346']
+2
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
-4
+['CHECK', 'BET:2:36']
+2
 
-4
+['CALL', 'FOLD', 'RAISE:4:6']
+2
 
-4
+['CHECK', 'BET:2:4']
+2
 
-4
+['CHECK', 'BET:2:4']
+2
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'BET:2:108']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
-4
+['CHECK', 'BET:2:12']
+2
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'BET:2:108']
 4
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['FOLD', 'CALL', 'RAISE:216:346']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'BET:2:108']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'BET:2:108']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
-4
+['CHECK', 'RAISE:4:6']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['FOLD', 'CALL', 'RAISE:24:48']
+2
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['FOLD', 'CALL', 'RAISE:72:144']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
-4
+['CHECK', 'BET:2:12']
+2
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
-4
+['CHECK', 'BET:2:12']
+2
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['FOLD', 'CALL', 'RAISE:72:144']
+2
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
-4
+['CHECK', 'BET:2:36']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
-4
+['CHECK', 'RAISE:4:6']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
-4
+['CHECK', 'BET:2:12']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['FOLD', 'CALL', 'RAISE:8:16']
 4
 
+['FOLD', 'CALL', 'RAISE:72:144']
 4
 
+['FOLD', 'CALL']
+ok
 4
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['FOLD', 'CALL', 'RAISE:72:144']
 4
 
+['FOLD', 'CALL']
+ok
 4
 
-4
+['CHECK', 'RAISE:4:6']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['FOLD', 'CALL', 'RAISE:24:48']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
-4
+['CHECK', 'BET:2:36']
+2
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['FOLD', 'CALL', 'RAISE:24:48']
 4
 
+['FOLD', 'CALL', 'RAISE:216:346']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'BET:2:108']
 4
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'BET:2:108']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'BET:2:108']
 4
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['FOLD', 'CALL', 'RAISE:24:48']
 4
 
+['FOLD', 'CALL', 'RAISE:216:346']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'BET:2:108']
 4
 
-4
+['FOLD', 'CALL']
+ok
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'BET:2:108']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'RAISE:4:6']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'BET:2:108']
 4
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['FOLD', 'CALL', 'RAISE:24:48']
 4
 
-4
+['FOLD', 'CALL', 'RAISE:264:394']
+2
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
-4
+['CHECK', 'BET:2:12']
+2
 
+['CHECK', 'BET:2:36']
 4
 
+['FOLD', 'CALL', 'RAISE:72:144']
 4
 
-4
+['FOLD', 'CALL']
+ok
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['FOLD', 'CALL', 'RAISE:24:48']
 4
 
+['FOLD', 'CALL', 'RAISE:264:394']
 4
 
-4
+['CHECK', 'RAISE:4:6']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
+['FOLD', 'CALL', 'RAISE:24:48']
 4
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'BET:2:108']
 4
 
-4
+['CHECK', 'RAISE:4:6']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'BET:2:108']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
-4
+['CHECK', 'BET:2:12']
+2
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'BET:2:36']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'RAISE:4:6']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
+['CHECK', 'BET:2:12']
 4
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['CALL', 'FOLD', 'RAISE:4:6']
+2
 
-4
+['CHECK', 'BET:2:4']
+2
 
-4
+['FOLD', 'CALL', 'RAISE:8:16']
+2
 
+['FOLD', 'CALL', 'RAISE:24:48']
 4
 
-4
+['CHECK', 'RAISE:4:6']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['CHECK', 'BET:2:36']
+2
 
-4
+['CHECK', 'BET:2:36']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['FOLD', 'CALL', 'RAISE:8:16']
 4
 
+['FOLD', 'CALL', 'RAISE:72:144']
 4
 
+['FOLD', 'CALL']
+ok
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'BET:2:108']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['FOLD', 'CALL', 'RAISE:8:16']
 4
 
+['FOLD', 'CALL', 'RAISE:72:144']
 4
 
+['FOLD', 'CALL']
+ok
 4
 
-4
+['CHECK', 'RAISE:4:6']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['FOLD', 'CALL', 'RAISE:8:16']
 4
 
+['FOLD', 'CALL', 'RAISE:72:144']
 4
 
-4
+['CHECK', 'BET:2:238']
+2
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
-4
+['CHECK', 'BET:2:12']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
-4
+['CHECK', 'BET:2:12']
+2
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['FOLD', 'CALL', 'RAISE:84:156']
 4
 
-4
+['FOLD', 'CALL']
+ok
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
-4
+['CHECK', 'BET:2:36']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'BET:2:108']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['FOLD', 'CALL', 'RAISE:24:48']
 4
 
+['FOLD', 'CALL', 'RAISE:264:394']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
-4
+['CHECK', 'BET:2:12']
+2
 
+['CHECK', 'BET:2:36']
 4
 
+['FOLD', 'CALL', 'RAISE:72:144']
 4
 
+['FOLD', 'CALL']
+ok
 4
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'BET:2:108']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'BET:2:108']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'BET:2:108']
 4
 
-4
+['FOLD', 'CALL']
+ok
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['FOLD', 'CALL', 'RAISE:24:48']
 4
 
+['CHECK', 'BET:2:108']
 4
 
-4
+['CHECK', 'RAISE:4:6']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['FOLD', 'CALL', 'RAISE:24:48']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['FOLD', 'CALL', 'RAISE:24:48']
 4
 
+['FOLD', 'CALL', 'RAISE:216:346']
 4
 
-4
+['CHECK', 'RAISE:4:6']
+2
 
+['CHECK', 'BET:2:12']
 4
 
+['FOLD', 'CALL', 'RAISE:24:48']
 4
 
+['CHECK', 'BET:2:108']
 4
 
-4
+['CHECK', 'BET:2:238']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
-4
+['CHECK', 'RAISE:4:6']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
-4
+['CHECK', 'RAISE:4:6']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['FOLD', 'CALL', 'RAISE:24:48']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['FOLD', 'CALL', 'RAISE:8:16']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['FOLD', 'CALL', 'RAISE:216:346']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'BET:2:108']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'RAISE:4:6']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['FOLD', 'CALL', 'RAISE:84:156']
 4
 
-4
+['CHECK', 'BET:2:238']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['FOLD', 'CALL', 'RAISE:8:16']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'BET:2:108']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'BET:2:108']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['FOLD', 'CALL', 'RAISE:8:16']
 4
 
+['FOLD', 'CALL', 'RAISE:72:144']
 4
 
+['FOLD', 'CALL']
+ok
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'BET:2:108']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
-4
+['CHECK', 'BET:2:36']
+2
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
-4
+['CHECK', 'BET:2:36']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['FOLD', 'CALL', 'RAISE:72:144']
 4
 
+['FOLD', 'CALL']
+ok
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
-4
+['CHECK', 'BET:2:36']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'BET:2:108']
 4
 
-4
+['FOLD', 'CALL']
+ok
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['FOLD', 'CALL', 'RAISE:72:144']
 4
 
-4
+['CHECK', 'RAISE:4:6']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'RAISE:4:6']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
+['FOLD', 'CALL', 'RAISE:24:48']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'BET:2:108']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['FOLD', 'CALL', 'RAISE:72:144']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'BET:2:108']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
-4
+['CHECK', 'RAISE:4:6']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
+['CHECK', 'BET:2:12']
 4
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'BET:2:108']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
-4
+['CHECK', 'BET:2:12']
+2
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'BET:2:108']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'BET:2:108']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
-4
+['CHECK', 'BET:2:36']
+2
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
-4
+['CHECK', 'BET:2:36']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
-4
+['CHECK', 'BET:2:36']
+2
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
-4
+['CHECK', 'BET:2:36']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'RAISE:4:6']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
+['CHECK', 'BET:2:12']
 4
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'BET:2:108']
 4
 
-4
+['CHECK', 'RAISE:4:6']
+2
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:12']
 4
 
-4
+['CHECK', 'BET:2:36']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['FOLD', 'CALL', 'RAISE:24:48']
 4
 
-4
+['FOLD', 'CALL', 'RAISE:264:394']
+2
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'BET:2:108']
+2
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['FOLD', 'CALL', 'RAISE:72:144']
 4
 
+['CHECK', 'BET:2:238']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'BET:2:108']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'BET:2:108']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'RAISE:4:6']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'BET:2:108']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
-4
+['FOLD', 'CALL', 'RAISE:72:144']
+2
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'BET:2:108']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'BET:2:108']
+2
 
-4
+['CALL', 'FOLD', 'RAISE:4:6']
+2
 
-4
+['CHECK', 'BET:2:4']
+2
 
-4
+['CHECK', 'BET:2:4']
+2
 
+['CHECK', 'BET:2:4']
 4
 
-4
+['CHECK', 'RAISE:4:6']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['FOLD', 'CALL', 'RAISE:24:48']
+2
 
-4
+['CHECK', 'BET:2:36']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['CHECK', 'RAISE:4:6']
+2
 
-4
+['CHECK', 'BET:2:4']
+2
 
-4
+['CHECK', 'BET:2:4']
+2
 
-4
+['CHECK', 'BET:2:4']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'BET:2:108']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'BET:2:108']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['FOLD', 'CALL', 'RAISE:8:16']
 4
 
+['FOLD', 'CALL', 'RAISE:72:144']
 4
 
+['FOLD', 'CALL']
+ok
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'BET:2:108']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['FOLD', 'CALL', 'RAISE:8:16']
 4
 
+['FOLD', 'CALL', 'RAISE:72:144']
 4
 
+['FOLD', 'CALL']
+ok
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['CHECK', 'BET:2:36']
+2
 
-4
+['CHECK', 'BET:2:36']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['FOLD', 'CALL', 'RAISE:8:16']
 4
 
+['FOLD', 'CALL', 'RAISE:88:160']
 4
 
+['FOLD', 'CALL']
+ok
 4
 
-4
+['CHECK', 'RAISE:4:6']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
-4
+['CHECK', 'BET:2:4']
+2
 
+['CHECK', 'BET:2:12']
 4
 
-4
+['CHECK', 'BET:2:12']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
-4
+['CHECK', 'BET:2:4']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['FOLD', 'CALL', 'RAISE:216:346']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'BET:2:108']
 4
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'BET:2:108']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'BET:2:108']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'RAISE:4:6']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['CHECK', 'BET:2:36']
+2
 
-4
+['CHECK', 'BET:2:36']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['FOLD', 'CALL', 'RAISE:8:16']
 4
 
+['FOLD', 'CALL', 'RAISE:72:144']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'BET:2:108']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['FOLD', 'CALL', 'RAISE:8:16']
 4
 
+['FOLD', 'CALL', 'RAISE:72:144']
 4
 
-4
+['CHECK', 'RAISE:4:6']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'RAISE:4:6']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['FOLD', 'CALL', 'RAISE:24:48']
+2
 
-4
+['CHECK', 'BET:2:36']
+2
 
-4
+['FOLD', 'CALL', 'RAISE:72:144']
+2
 
+['CHECK', 'BET:2:108']
 4
 
-4
+['FOLD', 'CALL', 'RAISE:216:346']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['FOLD', 'CALL', 'RAISE:8:16']
 4
 
+['FOLD', 'CALL', 'RAISE:72:144']
 4
 
+['FOLD', 'CALL']
+ok
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'BET:2:108']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['FOLD', 'CALL', 'RAISE:72:144']
 4
 
-4
+['CHECK', 'RAISE:4:6']
+2
 
+['CHECK', 'BET:2:12']
 4
 
+['FOLD', 'CALL', 'RAISE:24:48']
 4
 
+['CHECK', 'BET:2:108']
 4
 
+['CHECK', 'BET:2:238']
 4
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'BET:2:108']
 4
 
-4
+['CHECK', 'RAISE:4:6']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['FOLD', 'CALL', 'RAISE:24:48']
+2
 
-4
+['CHECK', 'BET:2:36']
+2
 
+['FOLD', 'CALL', 'RAISE:72:144']
 4
 
-4
+['CHECK', 'BET:2:108']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
-4
+['CHECK', 'BET:2:4']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['CHECK', 'RAISE:4:6']
+2
 
-4
+['CHECK', 'BET:2:4']
+2
 
-4
+['FOLD', 'CALL', 'RAISE:8:16']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['FOLD', 'CALL', 'RAISE:24:48']
+2
 
-4
+['CHECK', 'BET:2:36']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['FOLD', 'CALL', 'RAISE:24:48']
 4
 
+['CHECK', 'BET:2:108']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'BET:2:108']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
-4
+['CHECK', 'BET:2:36']
+2
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
-4
+['CHECK', 'BET:2:36']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
-4
+['CHECK', 'RAISE:4:6']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['FOLD', 'CALL', 'RAISE:8:16']
 4
 
+['FOLD', 'CALL', 'RAISE:72:144']
 4
 
+['FOLD', 'CALL']
+ok
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'BET:2:108']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'RAISE:4:6']
+2
 
+['CHECK', 'BET:2:12']
 4
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['CHECK', 'BET:2:36']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
-4
+['CHECK', 'BET:2:36']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['FOLD', 'CALL', 'RAISE:8:16']
 4
 
+['FOLD', 'CALL', 'RAISE:72:144']
 4
 
+['CHECK', 'BET:2:238']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'BET:2:108']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['FOLD', 'CALL', 'RAISE:24:48']
 4
 
-4
+['CHECK', 'BET:2:108']
+2
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
-4
+['CHECK', 'BET:2:36']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'RAISE:4:6']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['FOLD', 'CALL', 'RAISE:8:16']
 4
 
+['FOLD', 'CALL', 'RAISE:72:144']
 4
 
+['FOLD', 'CALL']
+ok
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'BET:2:108']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
-4
+['CHECK', 'BET:2:36']
+2
 
+['CHECK', 'BET:2:108']
 4
 
-4
+['FOLD', 'CALL', 'RAISE:216:346']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
-4
+['CHECK', 'BET:2:12']
+2
 
+['CHECK', 'BET:2:36']
 4
 
+['FOLD', 'CALL', 'RAISE:72:144']
 4
 
-4
+['CHECK', 'BET:2:238']
+2
 
-4
+['CALL', 'FOLD', 'RAISE:4:6']
+2
 
+['CHECK', 'BET:2:4']
 4
 
+['FOLD', 'CALL', 'RAISE:8:16']
 4
 
+['FOLD', 'CALL', 'RAISE:72:144']
 4
 
+['FOLD', 'CALL']
+ok
 4
 
-4
+['CHECK', 'RAISE:4:6']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['FOLD', 'CALL', 'RAISE:24:48']
+2
 
-4
+['CHECK', 'BET:2:36']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['FOLD', 'CALL', 'RAISE:8:16']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['FOLD', 'CALL', 'RAISE:216:346']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'BET:2:108']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['FOLD', 'CALL', 'RAISE:8:16']
 4
 
+['FOLD', 'CALL', 'RAISE:72:144']
 4
 
+['CHECK', 'BET:2:238']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'BET:2:108']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'RAISE:4:6']
+2
 
+['CHECK', 'BET:2:12']
 4
 
+['FOLD', 'CALL', 'RAISE:24:48']
 4
 
+['CHECK', 'BET:2:108']
 4
 
-4
+['CHECK', 'BET:2:238']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'BET:2:108']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
-4
+['CHECK', 'BET:2:36']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
-4
+['CHECK', 'BET:2:36']
+2
 
-4
+['CHECK', 'RAISE:4:6']
+2
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:4']
 4
 
-4
+['CHECK', 'BET:2:12']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'RAISE:4:6']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['FOLD', 'CALL', 'RAISE:24:48']
 4
 
+['FOLD', 'CALL', 'RAISE:216:346']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'BET:2:108']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['FOLD', 'CALL', 'RAISE:84:156']
 4
 
+['FOLD', 'CALL']
+ok
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['FOLD', 'CALL', 'RAISE:84:156']
 4
 
+['FOLD', 'CALL']
+ok
 4
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'BET:2:108']
+2
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
-4
+['CHECK', 'BET:2:36']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['FOLD', 'CALL', 'RAISE:8:16']
 4
 
+['FOLD', 'CALL', 'RAISE:72:144']
 4
 
+['FOLD', 'CALL']
+ok
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
-4
+['CHECK', 'BET:2:12']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['FOLD', 'CALL', 'RAISE:8:16']
 4
 
+['FOLD', 'CALL', 'RAISE:88:160']
 4
 
+['FOLD', 'CALL']
+ok
 4
 
-4
+['CHECK', 'RAISE:4:6']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['FOLD', 'CALL', 'RAISE:24:48']
 4
 
-4
+['CHECK', 'BET:2:108']
+2
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
-4
+['CHECK', 'BET:2:36']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['FOLD', 'CALL', 'RAISE:72:144']
 4
 
+['FOLD', 'CALL']
+ok
 4
 
-4
+['CHECK', 'RAISE:4:6']
+2
 
-4
+['CHECK', 'BET:2:12']
+2
 
-4
+['FOLD', 'CALL', 'RAISE:24:48']
+2
 
-4
+['CHECK', 'BET:2:36']
+2
 
+['FOLD', 'CALL', 'RAISE:72:144']
 4
 
+['CHECK', 'BET:2:108']
 4
 
+['FOLD', 'CALL']
+ok
 4
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['FOLD', 'CALL', 'RAISE:216:346']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
-4
+['CHECK', 'BET:2:108']
+2
 
+['CALL', 'FOLD', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:4']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'RAISE:4:6']
 4
 
+['CHECK', 'BET:2:12']
 4
 
+['CHECK', 'BET:2:36']
 4
 
+['CHECK', 'BET:2:108']
 Gameover, engine disconnected.

@@ -170,12 +170,16 @@ class Player:
 
                 prediction = np.argmax(predict_fn(data_tensor))
                 print(str(prediction)+"\n")
+                print legalActions
                 taken = False
                 if prediction == 0:
+                    taken = True
                     s.send("FOLD\n")
                 elif prediction == 1:
+                    taken = True
                     s.send("CHECK\n")
                 elif prediction == 2:
+                    taken = True
                     s.send("CALL\n")
                 elif prediction == 3:
                     for action in legalActions:
@@ -185,19 +189,20 @@ class Player:
                             break
                         elif "RAISE" in action:
                             s.send("RAISE:"+action.split(':')[-1]+"\n")
-                            take = True
+                            taken = True
                             break
                 else:
                     for action in legalActions:
                         if "RAISE" in action:
                             s.send("RAISE:"+action.split(':')[-1]+"\n")
-                            take = True
+                            taken = True
                             break
                         elif "BET" in action:
                             s.send("BET:"+action.split(':')[-1]+"\n")
                             taken = True
                             break
                 if taken == False:
+                    print 'ok'
                     s.send("CALL\n")
 
             elif word == "NEWHAND":
