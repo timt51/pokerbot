@@ -182,6 +182,21 @@ def move(data,oppName,holeCards,button,s,evaluator,bets_this_round):
 	action = choose_heuristic_action(legalActions, numBoardCards, avg_rank, bets_this_round, button)
 	action = action[0]
 
+	min_bet = 0.0
+	max_bet = 0.0
+	for an_action in legalActions:
+		if "BET" in an_action or "RAISE" in an_action:
+			min_bet = an_action.split(':')[1]
+			max_bet = an_action.split(':')[-1]
+			break
+	medium_bet = str(int((int(min_bet)+int(max_bet))/2))
+	if avg_rank < 0.33:
+		bet = random.choice([min_bet]*2+[medium_bet]*4+[max_bet]*9)
+	elif avg_rank > 0.66:
+		bet = random.choice([min_bet]*5+[medium_bet]*5+[max_bet]*5)
+	else:
+		bet = random.choice([min_bet]*3+[medium_bet]*5+[max_bet]*7)
+
 	if action == "CALL":
 		s.send("CALL\n")
 	elif action == "CHECK":
@@ -189,9 +204,9 @@ def move(data,oppName,holeCards,button,s,evaluator,bets_this_round):
 	elif action == "FOLD":
 		s.send("FOLD\n")
 	elif "BET" in action:
-		s.send("BET:"+action.split(':')[-1]+"\n")
+		s.send("BET:"+bet+"\n")
 	elif "RAISE" in action:
-		s.send("RAISE:"+action.split(':')[-1]+"\n")
+		s.send("RAISE:"+bet+"\n")
 	# if random.random() < 0.05:
 	# 	s.send("FOLD\n")
 	# else:

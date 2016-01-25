@@ -1,16172 +1,8502 @@
 Connecting to localhost:3000
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CHECK', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CHECK', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['CHECK', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CHECK', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CHECK', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CHECK', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['CHECK', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CHECK', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['CHECK', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CHECK', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CHECK', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['CHECK', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CHECK', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['CHECK', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CHECK', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['CHECK', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CHECK', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CHECK', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CHECK', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CHECK', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CHECK', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CHECK', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['CHECK', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CHECK', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['CHECK', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CHECK', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CHECK', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CHECK', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CHECK', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CHECK', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CHECK', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CHECK', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CHECK', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['CHECK', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CHECK', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CHECK', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['CHECK', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['CHECK', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CHECK', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CHECK', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['CHECK', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CHECK', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['CHECK', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CHECK', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CHECK', 'RAISE:4:6']
 2
 
-['CHECK', 'BET:2:4']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:8:16']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CHECK', 'BET:2:108']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['CHECK', 'BET:2:12']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['CHECK', 'BET:2:36']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['CALL', 'FOLD', 'RAISE:4:6']
 2
 
-['FOLD', 'CALL', 'RAISE:10:18']
 2
 
-['FOLD', 'CALL', 'RAISE:24:48']
 2
 
-['FOLD', 'CALL', 'RAISE:72:144']
 2
 
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CHECK', 'BET:2:108']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:8:16']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CHECK', 'BET:2:108']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CHECK', 'BET:2:108']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CHECK', 'BET:2:108']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:8:16']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['CHECK', 'BET:2:4']
-2
-
-['FOLD', 'CALL', 'RAISE:8:16']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CHECK', 'BET:2:108']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CHECK', 'BET:2:108']
-2
-
-['CHECK', 'RAISE:4:6']
-2
-
-['CHECK', 'BET:2:4']
-2
-
-['FOLD', 'CALL', 'RAISE:8:16']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:8:16']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CHECK', 'BET:2:108']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['CHECK', 'RAISE:4:6']
-2
-
-['CHECK', 'BET:2:4']
-2
-
-['CHECK', 'BET:2:4']
-2
-
-['FOLD', 'CALL', 'RAISE:8:16']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:8:16']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CHECK', 'BET:2:108']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CHECK', 'BET:2:108']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CHECK', 'RAISE:4:6']
-2
-
-['CHECK', 'BET:2:4']
-2
-
-['FOLD', 'CALL', 'RAISE:8:16']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['CHECK', 'RAISE:4:6']
-2
-
-['CHECK', 'BET:2:4']
-2
-
-['FOLD', 'CALL', 'RAISE:8:16']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CHECK', 'BET:2:108']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CHECK', 'BET:2:108']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CHECK', 'BET:2:108']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CHECK', 'BET:2:108']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CHECK', 'BET:2:108']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CHECK', 'BET:2:108']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:8:16']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CHECK', 'BET:2:108']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CHECK', 'RAISE:4:6']
-2
-
-['CHECK', 'BET:2:4']
-2
-
-['FOLD', 'CALL', 'RAISE:8:16']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CHECK', 'BET:2:108']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CHECK', 'BET:2:108']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['CHECK', 'RAISE:4:6']
-2
-
-['CHECK', 'BET:2:4']
-2
-
-['FOLD', 'CALL', 'RAISE:8:16']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['CHECK', 'RAISE:4:6']
-2
-
-['CHECK', 'BET:2:4']
-2
-
-['FOLD', 'CALL', 'RAISE:8:16']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CHECK', 'BET:2:108']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CHECK', 'BET:2:108']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CHECK', 'BET:2:108']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CHECK', 'BET:2:108']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CHECK', 'BET:2:108']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'RAISE:4:6']
-2
-
-['CHECK', 'BET:2:4']
-2
-
-['FOLD', 'CALL', 'RAISE:8:16']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:8:16']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CHECK', 'RAISE:4:6']
-2
-
-['CHECK', 'BET:2:4']
-2
-
-['CHECK', 'BET:2:4']
-2
-
-['FOLD', 'CALL', 'RAISE:8:16']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CHECK', 'BET:2:108']
-2
-
-['CHECK', 'RAISE:4:6']
-2
-
-['CHECK', 'BET:2:4']
-2
-
-['FOLD', 'CALL', 'RAISE:8:16']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CHECK', 'BET:2:108']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CHECK', 'BET:2:108']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CHECK', 'BET:2:108']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['CHECK', 'BET:2:4']
-2
-
-['FOLD', 'CALL', 'RAISE:8:16']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'RAISE:4:6']
-2
-
-['CHECK', 'BET:2:4']
-2
-
-['CHECK', 'BET:2:4']
-2
-
-['CHECK', 'BET:2:4']
-2
-
-['FOLD', 'CALL', 'RAISE:8:16']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['CHECK', 'RAISE:4:6']
-2
-
-['CHECK', 'BET:2:4']
-2
-
-['FOLD', 'CALL', 'RAISE:8:16']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CHECK', 'BET:2:108']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['CHECK', 'RAISE:4:6']
-2
-
-['CHECK', 'BET:2:4']
-2
-
-['FOLD', 'CALL', 'RAISE:8:16']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CHECK', 'BET:2:108']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'RAISE:4:6']
-2
-
-['CHECK', 'BET:2:4']
-2
-
-['CHECK', 'BET:2:4']
-2
-
-['FOLD', 'CALL', 'RAISE:8:16']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:8:16']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CHECK', 'RAISE:4:6']
-2
-
-['CHECK', 'BET:2:4']
-2
-
-['FOLD', 'CALL', 'RAISE:8:16']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CHECK', 'BET:2:108']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CHECK', 'BET:2:108']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CHECK', 'BET:2:108']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CHECK', 'BET:2:108']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['CHECK', 'RAISE:4:6']
-2
-
-['CHECK', 'BET:2:4']
-2
-
-['FOLD', 'CALL', 'RAISE:8:16']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CHECK', 'BET:2:108']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:8:16']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CHECK', 'RAISE:4:6']
-2
-
-['CHECK', 'BET:2:4']
-2
-
-['FOLD', 'CALL', 'RAISE:8:16']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CHECK', 'BET:2:108']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CHECK', 'RAISE:4:6']
-2
-
-['CHECK', 'BET:2:4']
-2
-
-['FOLD', 'CALL', 'RAISE:8:16']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:8:16']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CHECK', 'BET:2:108']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['CHECK', 'RAISE:4:6']
-2
-
-['CHECK', 'BET:2:4']
-2
-
-['FOLD', 'CALL', 'RAISE:8:16']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:8:16']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['CHECK', 'RAISE:4:6']
-2
-
-['CHECK', 'BET:2:4']
-2
-
-['FOLD', 'CALL', 'RAISE:8:16']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['CHECK', 'BET:2:4']
-2
-
-['FOLD', 'CALL', 'RAISE:8:16']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CHECK', 'BET:2:108']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:8:16']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CHECK', 'BET:2:108']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CHECK', 'BET:2:108']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:8:16']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CHECK', 'RAISE:4:6']
-2
-
-['CHECK', 'BET:2:4']
-2
-
-['FOLD', 'CALL', 'RAISE:8:16']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CHECK', 'BET:2:108']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CHECK', 'BET:2:108']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CHECK', 'BET:2:108']
-2
-
-['CHECK', 'RAISE:4:6']
-2
-
-['CHECK', 'BET:2:4']
-2
-
-['FOLD', 'CALL', 'RAISE:8:16']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['CHECK', 'RAISE:4:6']
-2
-
-['CHECK', 'BET:2:4']
-2
-
-['FOLD', 'CALL', 'RAISE:8:16']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CHECK', 'BET:2:108']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:8:16']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CHECK', 'RAISE:4:6']
-2
-
-['CHECK', 'BET:2:4']
-2
-
-['FOLD', 'CALL', 'RAISE:8:16']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'RAISE:4:6']
-2
-
-['CHECK', 'BET:2:4']
-2
-
-['CHECK', 'BET:2:4']
-2
-
-['FOLD', 'CALL', 'RAISE:8:16']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CHECK', 'BET:2:108']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:8:16']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CHECK', 'RAISE:4:6']
-2
-
-['CHECK', 'BET:2:4']
-2
-
-['FOLD', 'CALL', 'RAISE:8:16']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CHECK', 'BET:2:108']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['CHECK', 'BET:2:4']
-2
-
-['FOLD', 'CALL', 'RAISE:8:16']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CHECK', 'BET:2:108']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:8:16']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CHECK', 'RAISE:4:6']
-2
-
-['CHECK', 'BET:2:4']
-2
-
-['FOLD', 'CALL', 'RAISE:8:16']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CHECK', 'BET:2:108']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['CHECK', 'RAISE:4:6']
-2
-
-['CHECK', 'BET:2:4']
-2
-
-['FOLD', 'CALL', 'RAISE:8:16']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CHECK', 'BET:2:108']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CHECK', 'BET:2:108']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CHECK', 'BET:2:108']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CHECK', 'BET:2:108']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CHECK', 'BET:2:108']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['CHECK', 'BET:2:4']
-2
-
-['FOLD', 'CALL', 'RAISE:8:16']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:8:16']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CHECK', 'BET:2:108']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['CHECK', 'BET:2:4']
-2
-
-['FOLD', 'CALL', 'RAISE:8:16']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CHECK', 'BET:2:108']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['CHECK', 'BET:2:4']
-2
-
-['FOLD', 'CALL', 'RAISE:8:16']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CHECK', 'BET:2:108']
-2
-
-['FOLD', 'CALL', 'RAISE:216:346']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:8:16']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
-2
-
-['CHECK', 'RAISE:4:6']
-2
-
-['CHECK', 'BET:2:4']
-2
-
-['CHECK', 'BET:2:4']
-2
-
-['FOLD', 'CALL', 'RAISE:8:16']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['CALL', 'FOLD', 'RAISE:4:6']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['FOLD', 'CALL', 'RAISE:10:18']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['CHECK', 'BET:2:12']
-2
-
-['FOLD', 'CALL', 'RAISE:24:48']
-2
-
-['CHECK', 'BET:2:36']
-2
-
-['FOLD', 'CALL', 'RAISE:72:144']
 Gameover, engine disconnected.

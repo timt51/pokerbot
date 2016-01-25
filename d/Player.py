@@ -2,17 +2,60 @@ import argparse
 import socket
 import sys
 import newhand, getaction
-from deuces import Evaluator
+from deuces import Card, Deck, Evaluator
 import data_to_tensor_helper_x as hp
 import os
 import time
 import cPickle
+import math
+import itertools
+import random
 
 import numpy as np
 import theano
 import theano.tensor as T
 
 import lasagne
+
+def rank(evaluator, holeCards, boardCards):
+    deck = Deck()
+
+    allCards = holeCards.union(boardCards)
+    while len(allCards) < 9:
+        card = deck.draw(1)
+        if len(allCards) != len(allCards.union([card])):
+            allCards.add(card)
+            boardCards.add(card)
+
+    all2CardCombos = itertools.combinations(holeCards,2)
+    all3CardCombos = itertools.combinations(boardCards,3)
+
+    min_rank = 10000
+
+    for handCombo in all2CardCombos:
+        for boardCombo in all3CardCombos:
+            rank = evaluator.evaluate(boardCombo, handCombo)
+            if rank < min_rank:
+                min_rank = rank
+
+    return min_rank
+
+def average_rank(evaluator, holeCards, boardCards):
+    holeCards = map(Card.new, holeCards)
+    boardCards = map(Card.new, boardCards)
+
+    if len(boardCards) == 0 or len(boardCards) == 3:
+        reps = 101
+    elif len(boardCards) == 4:
+        reps = 51
+    else:
+        reps = 2
+
+    ranks = [0.0]
+    for i in range(1,reps):
+        ranks.append(rank(evaluator, set(holeCards), set(boardCards)))
+
+    return sum(ranks)/(len(ranks)-1)
 
 def build_cnn(input_var=None):
     # As a third model, we'll create a CNN of two convolution + pooling stages
@@ -170,7 +213,23 @@ class Player:
 
                 prediction = np.argmax(predict_fn(data_tensor))
                 print(str(prediction)+"\n")
-                print legalActions
+
+                avg_rank = average_rank(evaluator, holeCards, boardCards)
+                min_bet = 0.0
+                max_bet = 0.0
+                for an_action in legalActions:
+                    if "BET" in an_action or "RAISE" in an_action:
+                        min_bet = an_action.split(':')[1]
+                        max_bet = an_action.split(':')[-1]
+                        break
+                medium_bet = str(int((int(min_bet)+int(max_bet))/2))
+                if avg_rank < 0.33:
+                    bet = random.choice([min_bet]*2+[medium_bet]*4+[max_bet]*9)
+                elif avg_rank > 0.66:
+                    bet = random.choice([min_bet]*5+[medium_bet]*5+[max_bet]*5)
+                else:
+                    bet = random.choice([min_bet]*3+[medium_bet]*5+[max_bet]*7)
+
                 taken = False
                 if prediction == 0:
                     taken = True
