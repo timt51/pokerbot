@@ -212,6 +212,28 @@ class Player:
                             river_cnt += 1
 
                 prediction = np.argmax(predict_fn(data_tensor))
+
+                legalActionNums = []
+                for action in legalActions:
+                    if "FOLD" in action:
+                        legalActionNums.append(0)
+                    elif "CHECK" in action:
+                        legalActionNums.append(1)
+                    elif "CALL" in action:
+                        legalActionNums.append(2)
+                    elif "BET" in action:
+                        legalActionNums.append(3)
+                    elif "RAISE" in action:
+                        legalActionNums.append(4)
+
+                predictions = np.argsort(predict_fn(data_tensor))[0]
+                predictions = predictions[::-1]
+
+                for a_prediction in predictions:
+                    if a_prediction in legalActionNums:
+                        prediction = a_prediction
+                        break
+
                 print(str(prediction)+"\n")
 
                 avg_rank = average_rank(evaluator, holeCards, boardCards)
